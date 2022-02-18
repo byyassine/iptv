@@ -1,2073 +1,2073 @@
 #EXTM3U
 #EXTINF:-1,beIN SPORTS Xtra 1 Low
-http://showmetv.live:80/shbe10/6749779ed0/60303
+http://showmetv.live:80/shbe05/6749779ed0/60303
 #EXTINF:-1,beIN SPORTS Xtra 2 Low
-http://showmetv.live:80/shbe10/6749779ed0/60305
+http://showmetv.live:80/shbe05/6749779ed0/60305
 #EXTINF:-1,beIN SPORTS 1 Premium Low
-http://showmetv.live:80/shbe10/6749779ed0/44562
+http://showmetv.live:80/shbe05/6749779ed0/44562
 #EXTINF:-1,beIN SPORTS 2 Premium Low
-http://showmetv.live:80/shbe10/6749779ed0/44563
+http://showmetv.live:80/shbe05/6749779ed0/44563
 #EXTINF:-1,beIN SPORTS 3 Premium Low
-http://showmetv.live:80/shbe10/6749779ed0/44564
+http://showmetv.live:80/shbe05/6749779ed0/44564
 #EXTINF:-1,beIN SPORTS 1 Low
-http://showmetv.live:80/shbe10/6749779ed0/44555
+http://showmetv.live:80/shbe05/6749779ed0/44555
 #EXTINF:-1,beIN SPORTS 2 Low
-http://showmetv.live:80/shbe10/6749779ed0/44556
+http://showmetv.live:80/shbe05/6749779ed0/44556
 #EXTINF:-1,beIN SPORTS 3 Low
-http://showmetv.live:80/shbe10/6749779ed0/44557
+http://showmetv.live:80/shbe05/6749779ed0/44557
 #EXTINF:-1,beIN SPORTS 4 Low
-http://showmetv.live:80/shbe10/6749779ed0/44558
+http://showmetv.live:80/shbe05/6749779ed0/44558
 #EXTINF:-1,beIN SPORTS 5 Low
-http://showmetv.live:80/shbe10/6749779ed0/44559
+http://showmetv.live:80/shbe05/6749779ed0/44559
 #EXTINF:-1,beIN SPORTS 6 Low
-http://showmetv.live:80/shbe10/6749779ed0/44560
+http://showmetv.live:80/shbe05/6749779ed0/44560
 #EXTINF:-1,beIN SPORTS 7 Low
-http://showmetv.live:80/shbe10/6749779ed0/44561
+http://showmetv.live:80/shbe05/6749779ed0/44561
 #EXTINF:-1,beIN SPORTS 1 Premium SD
-http://showmetv.live:80/shbe10/6749779ed0/18043
+http://showmetv.live:80/shbe05/6749779ed0/18043
 #EXTINF:-1,beIN SPORTS 2 Premium SD
-http://showmetv.live:80/shbe10/6749779ed0/18042
+http://showmetv.live:80/shbe05/6749779ed0/18042
 #EXTINF:-1,beIN SPORTS 3 Premium SD
-http://showmetv.live:80/shbe10/6749779ed0/18041
+http://showmetv.live:80/shbe05/6749779ed0/18041
 #EXTINF:-1,beIN SPORTS 1SD
-http://showmetv.live:80/shbe10/6749779ed0/18050
+http://showmetv.live:80/shbe05/6749779ed0/18050
 #EXTINF:-1,beIN SPORTS 2SD
-http://showmetv.live:80/shbe10/6749779ed0/18049
+http://showmetv.live:80/shbe05/6749779ed0/18049
 #EXTINF:-1,beIN SPORTS 3SD
-http://showmetv.live:80/shbe10/6749779ed0/18048
+http://showmetv.live:80/shbe05/6749779ed0/18048
 #EXTINF:-1,beIN SPORTS 4SD
-http://showmetv.live:80/shbe10/6749779ed0/18047
+http://showmetv.live:80/shbe05/6749779ed0/18047
 #EXTINF:-1,beIN SPORTS 5SD
-http://showmetv.live:80/shbe10/6749779ed0/18046
+http://showmetv.live:80/shbe05/6749779ed0/18046
 #EXTINF:-1,beIN SPORTS 6SD
-http://showmetv.live:80/shbe10/6749779ed0/18045
+http://showmetv.live:80/shbe05/6749779ed0/18045
 #EXTINF:-1,beIN SPORTS 7SD
-http://showmetv.live:80/shbe10/6749779ed0/18044
+http://showmetv.live:80/shbe05/6749779ed0/18044
 #EXTINF:-1,beIN SPORTS 1 Premium HQ
-http://showmetv.live:80/shbe10/6749779ed0/44572
+http://showmetv.live:80/shbe05/6749779ed0/44572
 #EXTINF:-1,beIN SPORTS 2 Premium HQ
-http://showmetv.live:80/shbe10/6749779ed0/44573
+http://showmetv.live:80/shbe05/6749779ed0/44573
 #EXTINF:-1,beIN SPORTS 3 Premium HQ
-http://showmetv.live:80/shbe10/6749779ed0/44574
+http://showmetv.live:80/shbe05/6749779ed0/44574
 #EXTINF:-1,beIN SPORTS 1 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44565
+http://showmetv.live:80/shbe05/6749779ed0/44565
 #EXTINF:-1,beIN SPORTS 2 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44566
+http://showmetv.live:80/shbe05/6749779ed0/44566
 #EXTINF:-1,beIN SPORTS 3 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44567
+http://showmetv.live:80/shbe05/6749779ed0/44567
 #EXTINF:-1,beIN SPORTS 4 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44568
+http://showmetv.live:80/shbe05/6749779ed0/44568
 #EXTINF:-1,beIN SPORTS 5 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44569
+http://showmetv.live:80/shbe05/6749779ed0/44569
 #EXTINF:-1,beIN SPORTS 6 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44570
+http://showmetv.live:80/shbe05/6749779ed0/44570
 #EXTINF:-1,beIN SPORTS 7 HQ
-http://showmetv.live:80/shbe10/6749779ed0/44571
+http://showmetv.live:80/shbe05/6749779ed0/44571
 #EXTINF:-1,beIN Sports Xtra 1HD
-http://showmetv.live:80/shbe10/6749779ed0/54926
+http://showmetv.live:80/shbe05/6749779ed0/54926
 #EXTINF:-1,beIN Sports Xtra 2HD
-http://showmetv.live:80/shbe10/6749779ed0/60313
+http://showmetv.live:80/shbe05/6749779ed0/60313
 #EXTINF:-1,beIN Sports 1 Premium HD
-http://showmetv.live:80/shbe10/6749779ed0/17976
+http://showmetv.live:80/shbe05/6749779ed0/17976
 #EXTINF:-1,beIN Sports 2 Premium HD
-http://showmetv.live:80/shbe10/6749779ed0/17975
+http://showmetv.live:80/shbe05/6749779ed0/17975
 #EXTINF:-1,beIN Sports 3 Premium HD
-http://showmetv.live:80/shbe10/6749779ed0/17974
+http://showmetv.live:80/shbe05/6749779ed0/17974
 #EXTINF:-1,beIN Sports 1HD
-http://showmetv.live:80/shbe10/6749779ed0/17983
+http://showmetv.live:80/shbe05/6749779ed0/17983
 #EXTINF:-1,beIN Sports 2HD
-http://showmetv.live:80/shbe10/6749779ed0/17982
+http://showmetv.live:80/shbe05/6749779ed0/17982
 #EXTINF:-1,beIN Sports 3HD
-http://showmetv.live:80/shbe10/6749779ed0/17981
+http://showmetv.live:80/shbe05/6749779ed0/17981
 #EXTINF:-1,beIN Sports 4HD
-http://showmetv.live:80/shbe10/6749779ed0/17980
+http://showmetv.live:80/shbe05/6749779ed0/17980
 #EXTINF:-1,beIN Sports 5HD
-http://showmetv.live:80/shbe10/6749779ed0/17979
+http://showmetv.live:80/shbe05/6749779ed0/17979
 #EXTINF:-1,beIN Sports 6HD
-http://showmetv.live:80/shbe10/6749779ed0/17978
+http://showmetv.live:80/shbe05/6749779ed0/17978
 #EXTINF:-1,beIN Sports 7HD
-http://showmetv.live:80/shbe10/6749779ed0/17977
+http://showmetv.live:80/shbe05/6749779ed0/17977
 #EXTINF:-1,beIN Sports English 1HD
-http://showmetv.live:80/shbe10/6749779ed0/18629
+http://showmetv.live:80/shbe05/6749779ed0/18629
 #EXTINF:-1,beIN Sports English 2HD
-http://showmetv.live:80/shbe10/6749779ed0/44319
+http://showmetv.live:80/shbe05/6749779ed0/44319
 #EXTINF:-1,beIN Sports English 3HD
-http://showmetv.live:80/shbe10/6749779ed0/18631
+http://showmetv.live:80/shbe05/6749779ed0/18631
 #EXTINF:-1,beIN Sports French 1HD
-http://showmetv.live:80/shbe10/6749779ed0/18632
+http://showmetv.live:80/shbe05/6749779ed0/18632
 #EXTINF:-1,beIN Sports French 2HD
-http://showmetv.live:80/shbe10/6749779ed0/18633
+http://showmetv.live:80/shbe05/6749779ed0/18633
 #EXTINF:-1,beIN Sports NBA HD
-http://showmetv.live:80/shbe10/6749779ed0/54130
+http://showmetv.live:80/shbe05/6749779ed0/54130
 #EXTINF:-1,Bein Sports 1 Premium SD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40837
+http://showmetv.live:80/shbe05/6749779ed0/40837
 #EXTINF:-1,Bein Sports 2 Premium SD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40838
+http://showmetv.live:80/shbe05/6749779ed0/40838
 #EXTINF:-1,Bein Sports 3 Premium SD(H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40839
+http://showmetv.live:80/shbe05/6749779ed0/40839
 #EXTINF:-1,Bein Sports SD1 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40830
+http://showmetv.live:80/shbe05/6749779ed0/40830
 #EXTINF:-1,Bein Sports SD2 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40831
+http://showmetv.live:80/shbe05/6749779ed0/40831
 #EXTINF:-1,Bein Sports SD3 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40832
+http://showmetv.live:80/shbe05/6749779ed0/40832
 #EXTINF:-1,Bein Sports SD4 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40833
+http://showmetv.live:80/shbe05/6749779ed0/40833
 #EXTINF:-1,Bein Sports SD5 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40834
+http://showmetv.live:80/shbe05/6749779ed0/40834
 #EXTINF:-1,Bein Sports SD6 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40835
+http://showmetv.live:80/shbe05/6749779ed0/40835
 #EXTINF:-1,Bein Sports SD7 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40836
+http://showmetv.live:80/shbe05/6749779ed0/40836
 #EXTINF:-1,Bein Sports 1 Premium HD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40125
+http://showmetv.live:80/shbe05/6749779ed0/40125
 #EXTINF:-1,Bein Sports 2 Premium HD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40126
+http://showmetv.live:80/shbe05/6749779ed0/40126
 #EXTINF:-1,Bein Sports 3 Premium HD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40127
+http://showmetv.live:80/shbe05/6749779ed0/40127
 #EXTINF:-1,Bein Sports HD1 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40118
+http://showmetv.live:80/shbe05/6749779ed0/40118
 #EXTINF:-1,Bein Sports HD2 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40119
+http://showmetv.live:80/shbe05/6749779ed0/40119
 #EXTINF:-1,Bein Sports HD3 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40120
+http://showmetv.live:80/shbe05/6749779ed0/40120
 #EXTINF:-1,Bein Sports HD4 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40121
+http://showmetv.live:80/shbe05/6749779ed0/40121
 #EXTINF:-1,Bein Sports HD5 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40122
+http://showmetv.live:80/shbe05/6749779ed0/40122
 #EXTINF:-1,Bein Sports HD6 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40123
+http://showmetv.live:80/shbe05/6749779ed0/40123
 #EXTINF:-1,Bein Sports HD7 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/40124
+http://showmetv.live:80/shbe05/6749779ed0/40124
 #EXTINF:-1,beIN Sports 1 Premium FHD
-http://showmetv.live:80/shbe10/6749779ed0/31542
+http://showmetv.live:80/shbe05/6749779ed0/31542
 #EXTINF:-1,beIN Sports 2 Premium FHD
-http://showmetv.live:80/shbe10/6749779ed0/31543
+http://showmetv.live:80/shbe05/6749779ed0/31543
 #EXTINF:-1,beIN Sports 3 Premium FHD
-http://showmetv.live:80/shbe10/6749779ed0/31544
+http://showmetv.live:80/shbe05/6749779ed0/31544
 #EXTINF:-1,beIN Sports 1FHD
-http://showmetv.live:80/shbe10/6749779ed0/31535
+http://showmetv.live:80/shbe05/6749779ed0/31535
 #EXTINF:-1,beIN Sports 2FHD
-http://showmetv.live:80/shbe10/6749779ed0/31536
+http://showmetv.live:80/shbe05/6749779ed0/31536
 #EXTINF:-1,beIN Sports 3FHD
-http://showmetv.live:80/shbe10/6749779ed0/31537
+http://showmetv.live:80/shbe05/6749779ed0/31537
 #EXTINF:-1,beIN Sports 4FHD
-http://showmetv.live:80/shbe10/6749779ed0/31538
+http://showmetv.live:80/shbe05/6749779ed0/31538
 #EXTINF:-1,beIN Sports 5FHD
-http://showmetv.live:80/shbe10/6749779ed0/31539
+http://showmetv.live:80/shbe05/6749779ed0/31539
 #EXTINF:-1,beIN Sports 6FHD
-http://showmetv.live:80/shbe10/6749779ed0/31540
+http://showmetv.live:80/shbe05/6749779ed0/31540
 #EXTINF:-1,beIN Sports 7FHD
-http://showmetv.live:80/shbe10/6749779ed0/31541
+http://showmetv.live:80/shbe05/6749779ed0/31541
 #EXTINF:-1,beIN Sport Xtra 1 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/30928
+http://showmetv.live:80/shbe05/6749779ed0/30928
 #EXTINF:-1,beIN Sport Xtra 2 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/60294
+http://showmetv.live:80/shbe05/6749779ed0/60294
 #EXTINF:-1,beIN Sports NBA 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/44300
+http://showmetv.live:80/shbe05/6749779ed0/44300
 #EXTINF:-1,beIN Sports 1 Premium 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18088
+http://showmetv.live:80/shbe05/6749779ed0/18088
 #EXTINF:-1,beIN Sports 1 Premium 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44279
+http://showmetv.live:80/shbe05/6749779ed0/44279
 #EXTINF:-1,beIN Sports 2 Premium 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18087
+http://showmetv.live:80/shbe05/6749779ed0/18087
 #EXTINF:-1,beIN Sports 2 Premium 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44280
+http://showmetv.live:80/shbe05/6749779ed0/44280
 #EXTINF:-1,beIN Sports 3 Premium 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18086
+http://showmetv.live:80/shbe05/6749779ed0/18086
 #EXTINF:-1,beIN Sports 3 Premium 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44281
+http://showmetv.live:80/shbe05/6749779ed0/44281
 #EXTINF:-1,beIN Sports 1 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18095
+http://showmetv.live:80/shbe05/6749779ed0/18095
 #EXTINF:-1,beIN Sports 1 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44272
+http://showmetv.live:80/shbe05/6749779ed0/44272
 #EXTINF:-1,beIN Sports 2 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18094
+http://showmetv.live:80/shbe05/6749779ed0/18094
 #EXTINF:-1,beIN Sports 2 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44273
+http://showmetv.live:80/shbe05/6749779ed0/44273
 #EXTINF:-1,beIN Sports 3 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18093
+http://showmetv.live:80/shbe05/6749779ed0/18093
 #EXTINF:-1,beIN Sports 3 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44274
+http://showmetv.live:80/shbe05/6749779ed0/44274
 #EXTINF:-1,beIN Sports 4 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18092
+http://showmetv.live:80/shbe05/6749779ed0/18092
 #EXTINF:-1,beIN Sports 4 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44275
+http://showmetv.live:80/shbe05/6749779ed0/44275
 #EXTINF:-1,beIN Sports 5 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18091
+http://showmetv.live:80/shbe05/6749779ed0/18091
 #EXTINF:-1,beIN Sports 5 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44276
+http://showmetv.live:80/shbe05/6749779ed0/44276
 #EXTINF:-1,beIN Sports 6 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18090
+http://showmetv.live:80/shbe05/6749779ed0/18090
 #EXTINF:-1,beIN Sports 6 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44277
+http://showmetv.live:80/shbe05/6749779ed0/44277
 #EXTINF:-1,beIN Sports 7 4K (H265)
-http://showmetv.live:80/shbe10/6749779ed0/18089
+http://showmetv.live:80/shbe05/6749779ed0/18089
 #EXTINF:-1,beIN Sports 7 4K (H.265) (Backup)
-http://showmetv.live:80/shbe10/6749779ed0/44278
+http://showmetv.live:80/shbe05/6749779ed0/44278
 #EXTINF:-1,beIN MOVIES HD1
-http://showmetv.live:80/shbe10/6749779ed0/18056
+http://showmetv.live:80/shbe05/6749779ed0/18056
 #EXTINF:-1,beIN MOVIES HD2
-http://showmetv.live:80/shbe10/6749779ed0/18055
+http://showmetv.live:80/shbe05/6749779ed0/18055
 #EXTINF:-1,beIN MOVIES HD3
-http://showmetv.live:80/shbe10/6749779ed0/18054
+http://showmetv.live:80/shbe05/6749779ed0/18054
 #EXTINF:-1,beIN MOVIES HD4
-http://showmetv.live:80/shbe10/6749779ed0/18053
+http://showmetv.live:80/shbe05/6749779ed0/18053
 #EXTINF:-1,beIN SERIES HD1
-http://showmetv.live:80/shbe10/6749779ed0/18057
+http://showmetv.live:80/shbe05/6749779ed0/18057
 #EXTINF:-1,beIN SERIES HD2
-http://showmetv.live:80/shbe10/6749779ed0/18052
+http://showmetv.live:80/shbe05/6749779ed0/18052
 #EXTINF:-1,BeIN Drama HD1
-http://showmetv.live:80/shbe10/6749779ed0/19240
+http://showmetv.live:80/shbe05/6749779ed0/19240
 #EXTINF:-1,BeIN Gourmet HD
-http://showmetv.live:80/shbe10/6749779ed0/19246
+http://showmetv.live:80/shbe05/6749779ed0/19246
 #EXTINF:-1,BeIN Fatafeat HD
-http://showmetv.live:80/shbe10/6749779ed0/19244
+http://showmetv.live:80/shbe05/6749779ed0/19244
 #EXTINF:-1,BeIN Food Network HD
-http://showmetv.live:80/shbe10/6749779ed0/19259
+http://showmetv.live:80/shbe05/6749779ed0/19259
 #EXTINF:-1,BeIN HGTV HD
-http://showmetv.live:80/shbe10/6749779ed0/19247
+http://showmetv.live:80/shbe05/6749779ed0/19247
 #EXTINF:-1,BeIN FX HD
-http://showmetv.live:80/shbe10/6749779ed0/33505
+http://showmetv.live:80/shbe05/6749779ed0/33505
 #EXTINF:-1,BeIN Fox Movies HD
-http://showmetv.live:80/shbe10/6749779ed0/19262
+http://showmetv.live:80/shbe05/6749779ed0/19262
 #EXTINF:-1,BeIN Fox Family Movies HD
-http://showmetv.live:80/shbe10/6749779ed0/29816
+http://showmetv.live:80/shbe05/6749779ed0/29816
 #EXTINF:-1,BeIN Fox Action Movies HD
-http://showmetv.live:80/shbe10/6749779ed0/19264
+http://showmetv.live:80/shbe05/6749779ed0/19264
 #EXTINF:-1,BeIN Fox Rewayat HD
-http://showmetv.live:80/shbe10/6749779ed0/11960
+http://showmetv.live:80/shbe05/6749779ed0/11960
 #EXTINF:-1,BeIN Fox Crime HD
-http://showmetv.live:80/shbe10/6749779ed0/11649
+http://showmetv.live:80/shbe05/6749779ed0/11649
 #EXTINF:-1,BeIN Fox Life HD
-http://showmetv.live:80/shbe10/6749779ed0/11650
+http://showmetv.live:80/shbe05/6749779ed0/11650
 #EXTINF:-1,BeIN Be junior HD
-http://showmetv.live:80/shbe10/6749779ed0/19245
+http://showmetv.live:80/shbe05/6749779ed0/19245
 #EXTINF:-1,BeIN Dream Network
-http://showmetv.live:80/shbe10/6749779ed0/19261
+http://showmetv.live:80/shbe05/6749779ed0/19261
 #EXTINF:-1,BeIN Cartoon Network HD
-http://showmetv.live:80/shbe10/6749779ed0/19251
+http://showmetv.live:80/shbe05/6749779ed0/19251
 #EXTINF:-1,BeIN Boomerang HD
-http://showmetv.live:80/shbe10/6749779ed0/19250
+http://showmetv.live:80/shbe05/6749779ed0/19250
 #EXTINF:-1,BeIN Baraem HD
-http://showmetv.live:80/shbe10/6749779ed0/19249
+http://showmetv.live:80/shbe05/6749779ed0/19249
 #EXTINF:-1,BeIN Jeem HD
-http://showmetv.live:80/shbe10/6749779ed0/19248
+http://showmetv.live:80/shbe05/6749779ed0/19248
 #EXTINF:-1,BeIN Animal Planet HD
-http://showmetv.live:80/shbe10/6749779ed0/19258
+http://showmetv.live:80/shbe05/6749779ed0/19258
 #EXTINF:-1,BeIN BBC Earth  HD
-http://showmetv.live:80/shbe10/6749779ed0/26954
+http://showmetv.live:80/shbe05/6749779ed0/26954
 #EXTINF:-1,BeIN Nat Wild
-http://showmetv.live:80/shbe10/6749779ed0/19256
+http://showmetv.live:80/shbe05/6749779ed0/19256
 #EXTINF:-1,BeIN Nat Geo HD
-http://showmetv.live:80/shbe10/6749779ed0/19254
+http://showmetv.live:80/shbe05/6749779ed0/19254
 #EXTINF:-1,BeIN Travel HD
-http://showmetv.live:80/shbe10/6749779ed0/19257
+http://showmetv.live:80/shbe05/6749779ed0/19257
 #EXTINF:-1,beIN MOVIES 1 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44301
+http://showmetv.live:80/shbe05/6749779ed0/44301
 #EXTINF:-1,beIN MOVIES 2 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44302
+http://showmetv.live:80/shbe05/6749779ed0/44302
 #EXTINF:-1,beIN MOVIES 3 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44303
+http://showmetv.live:80/shbe05/6749779ed0/44303
 #EXTINF:-1,beIN MOVIES 4 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44304
+http://showmetv.live:80/shbe05/6749779ed0/44304
 #EXTINF:-1,beIN SERIES 1 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44305
+http://showmetv.live:80/shbe05/6749779ed0/44305
 #EXTINF:-1,beIN SERIES 2 (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44306
+http://showmetv.live:80/shbe05/6749779ed0/44306
 #EXTINF:-1,beIN GORMENT (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44317
+http://showmetv.live:80/shbe05/6749779ed0/44317
 #EXTINF:-1,beIN DRAMA (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44318
+http://showmetv.live:80/shbe05/6749779ed0/44318
 #EXTINF:-1,beIN BARAEAM (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44307
+http://showmetv.live:80/shbe05/6749779ed0/44307
 #EXTINF:-1,beIN JEEM (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44308
+http://showmetv.live:80/shbe05/6749779ed0/44308
 #EXTINF:-1,beIN ANIMAL PLANET (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44309
+http://showmetv.live:80/shbe05/6749779ed0/44309
 #EXTINF:-1,beIN BBC EARTH (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44310
+http://showmetv.live:80/shbe05/6749779ed0/44310
 #EXTINF:-1,beIN FATAFEAT (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44311
+http://showmetv.live:80/shbe05/6749779ed0/44311
 #EXTINF:-1,beIN FOX CRIME (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44312
+http://showmetv.live:80/shbe05/6749779ed0/44312
 #EXTINF:-1,beIN FOX LIFE (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44313
+http://showmetv.live:80/shbe05/6749779ed0/44313
 #EXTINF:-1,beIN FOX MOV ACTION (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44314
+http://showmetv.live:80/shbe05/6749779ed0/44314
 #EXTINF:-1,beIN FOX MOVIES (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44315
+http://showmetv.live:80/shbe05/6749779ed0/44315
 #EXTINF:-1,beIN FOX REWAYAT (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/44316
+http://showmetv.live:80/shbe05/6749779ed0/44316
 #EXTINF:-1,ART AFLAM 1
-http://showmetv.live:80/shbe10/6749779ed0/18038
+http://showmetv.live:80/shbe05/6749779ed0/18038
 #EXTINF:-1,ART AFLAM 2
-http://showmetv.live:80/shbe10/6749779ed0/18037
+http://showmetv.live:80/shbe05/6749779ed0/18037
 #EXTINF:-1,ART HEKAYAT
-http://showmetv.live:80/shbe10/6749779ed0/18040
+http://showmetv.live:80/shbe05/6749779ed0/18040
 #EXTINF:-1,ART HEKAYAT 2
-http://showmetv.live:80/shbe10/6749779ed0/18039
+http://showmetv.live:80/shbe05/6749779ed0/18039
 #EXTINF:-1,ART CINEMA
-http://showmetv.live:80/shbe10/6749779ed0/18036
+http://showmetv.live:80/shbe05/6749779ed0/18036
 #EXTINF:-1,ART TARAB
-http://showmetv.live:80/shbe10/6749779ed0/44451
+http://showmetv.live:80/shbe05/6749779ed0/44451
 #EXTINF:-1,ART AMERICA
-http://showmetv.live:80/shbe10/6749779ed0/44449
+http://showmetv.live:80/shbe05/6749779ed0/44449
 #EXTINF:-1,ART MOVIES AMERICA
-http://showmetv.live:80/shbe10/6749779ed0/44450
+http://showmetv.live:80/shbe05/6749779ed0/44450
 #EXTINF:-1,Premium AL Yawm HD
-http://showmetv.live:80/shbe10/6749779ed0/60348
+http://showmetv.live:80/shbe05/6749779ed0/60348
 #EXTINF:-1,Premium AL Safwa
-http://showmetv.live:80/shbe10/6749779ed0/60352
+http://showmetv.live:80/shbe05/6749779ed0/60352
 #EXTINF:-1,Premium Music Now
-http://showmetv.live:80/shbe10/6749779ed0/60349
+http://showmetv.live:80/shbe05/6749779ed0/60349
 #EXTINF:-1,Premium Fann
-http://showmetv.live:80/shbe10/6749779ed0/60353
+http://showmetv.live:80/shbe05/6749779ed0/60353
 #EXTINF:-1,Premium Cinema 1
-http://showmetv.live:80/shbe10/6749779ed0/60351
+http://showmetv.live:80/shbe05/6749779ed0/60351
 #EXTINF:-1,Premium Cinema 2
-http://showmetv.live:80/shbe10/6749779ed0/60350
+http://showmetv.live:80/shbe05/6749779ed0/60350
 #EXTINF:-1,Premium Musalslat HD
-http://showmetv.live:80/shbe10/6749779ed0/60347
+http://showmetv.live:80/shbe05/6749779ed0/60347
 #EXTINF:-1,Premium Musalslat 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/60346
+http://showmetv.live:80/shbe05/6749779ed0/60346
 #EXTINF:-1,Premium Yahala Cinema HD
-http://showmetv.live:80/shbe10/6749779ed0/60345
+http://showmetv.live:80/shbe05/6749779ed0/60345
 #EXTINF:-1,Premium Yahala HD
-http://showmetv.live:80/shbe10/6749779ed0/60344
+http://showmetv.live:80/shbe05/6749779ed0/60344
 #EXTINF:-1,Premium Yahala Oula HD
-http://showmetv.live:80/shbe10/6749779ed0/60343
+http://showmetv.live:80/shbe05/6749779ed0/60343
 #EXTINF:-1,Premium Nat Geo HD
-http://showmetv.live:80/shbe10/6749779ed0/18010
+http://showmetv.live:80/shbe05/6749779ed0/18010
 #EXTINF:-1,Premium Nat GEO Wild HD
-http://showmetv.live:80/shbe10/6749779ed0/18008
+http://showmetv.live:80/shbe05/6749779ed0/18008
 #EXTINF:-1,Premium Discovery Science HD
-http://showmetv.live:80/shbe10/6749779ed0/18007
+http://showmetv.live:80/shbe05/6749779ed0/18007
 #EXTINF:-1,Premium Discovery IDX HD
-http://showmetv.live:80/shbe10/6749779ed0/18006
+http://showmetv.live:80/shbe05/6749779ed0/18006
 #EXTINF:-1,Premium Discovery Channel HD
-http://showmetv.live:80/shbe10/6749779ed0/18004
+http://showmetv.live:80/shbe05/6749779ed0/18004
 #EXTINF:-1,Premium History Channel HD
-http://showmetv.live:80/shbe10/6749779ed0/18003
+http://showmetv.live:80/shbe05/6749779ed0/18003
 #EXTINF:-1,Premium H2 HD
-http://showmetv.live:80/shbe10/6749779ed0/18002
+http://showmetv.live:80/shbe05/6749779ed0/18002
 #EXTINF:-1,Premium Disney Channel HD
-http://showmetv.live:80/shbe10/6749779ed0/60341
+http://showmetv.live:80/shbe05/6749779ed0/60341
 #EXTINF:-1,Premium Disney Junior HD
-http://showmetv.live:80/shbe10/6749779ed0/60340
+http://showmetv.live:80/shbe05/6749779ed0/60340
 #EXTINF:-1,Premium TLC HD
-http://showmetv.live:80/shbe10/6749779ed0/60339
+http://showmetv.live:80/shbe05/6749779ed0/60339
 #EXTINF:-1,Premium Movies HD
-http://showmetv.live:80/shbe10/6749779ed0/60338
+http://showmetv.live:80/shbe05/6749779ed0/60338
 #EXTINF:-1,Premium Action HD
-http://showmetv.live:80/shbe10/6749779ed0/60337
+http://showmetv.live:80/shbe05/6749779ed0/60337
 #EXTINF:-1,Premium Movies First HD
-http://showmetv.live:80/shbe10/6749779ed0/60335
+http://showmetv.live:80/shbe05/6749779ed0/60335
 #EXTINF:-1,Premium Movies First HD 2h
-http://showmetv.live:80/shbe10/6749779ed0/60334
+http://showmetv.live:80/shbe05/6749779ed0/60334
 #EXTINF:-1,Premium Enigma HD
-http://showmetv.live:80/shbe10/6749779ed0/60333
+http://showmetv.live:80/shbe05/6749779ed0/60333
 #EXTINF:-1,Premium Comedy HD
-http://showmetv.live:80/shbe10/6749779ed0/60332
+http://showmetv.live:80/shbe05/6749779ed0/60332
 #EXTINF:-1,Premium Woman HD
-http://showmetv.live:80/shbe10/6749779ed0/60331
+http://showmetv.live:80/shbe05/6749779ed0/60331
 #EXTINF:-1,Premium Series HD
-http://showmetv.live:80/shbe10/6749779ed0/60330
+http://showmetv.live:80/shbe05/6749779ed0/60330
 #EXTINF:-1,Premium Series First HD
-http://showmetv.live:80/shbe10/6749779ed0/60329
+http://showmetv.live:80/shbe05/6749779ed0/60329
 #EXTINF:-1,Premium Star Movie HD
-http://showmetv.live:80/shbe10/6749779ed0/60328
+http://showmetv.live:80/shbe05/6749779ed0/60328
 #EXTINF:-1,Premium Star World HD
-http://showmetv.live:80/shbe10/6749779ed0/60327
+http://showmetv.live:80/shbe05/6749779ed0/60327
 #EXTINF:-1,Premium Baby TV
-http://showmetv.live:80/shbe10/6749779ed0/60326
+http://showmetv.live:80/shbe05/6749779ed0/60326
 #EXTINF:-1,Premium Nick JR
-http://showmetv.live:80/shbe10/6749779ed0/60325
+http://showmetv.live:80/shbe05/6749779ed0/60325
 #EXTINF:-1,Premium Nickelodeon HD
-http://showmetv.live:80/shbe10/6749779ed0/60324
+http://showmetv.live:80/shbe05/6749779ed0/60324
 #EXTINF:-1,Premium Nicktoons HD
-http://showmetv.live:80/shbe10/6749779ed0/60323
+http://showmetv.live:80/shbe05/6749779ed0/60323
 #EXTINF:-1,Premium Kid Zone
-http://showmetv.live:80/shbe10/6749779ed0/60322
+http://showmetv.live:80/shbe05/6749779ed0/60322
 #EXTINF:-1,Premium E! HD
-http://showmetv.live:80/shbe10/6749779ed0/60321
+http://showmetv.live:80/shbe05/6749779ed0/60321
 #EXTINF:-1,Premium Living HD
-http://showmetv.live:80/shbe10/6749779ed0/60320
+http://showmetv.live:80/shbe05/6749779ed0/60320
 #EXTINF:-1,Premium Mezze
-http://showmetv.live:80/shbe10/6749779ed0/60319
+http://showmetv.live:80/shbe05/6749779ed0/60319
 #EXTINF:-1,Premium Kids HD
-http://showmetv.live:80/shbe10/6749779ed0/60317
+http://showmetv.live:80/shbe05/6749779ed0/60317
 #EXTINF:-1,Premium Movies Family HD
-http://showmetv.live:80/shbe10/6749779ed0/60316
+http://showmetv.live:80/shbe05/6749779ed0/60316
 #EXTINF:-1,Premium Crime & investegation
-http://showmetv.live:80/shbe10/6749779ed0/60315
+http://showmetv.live:80/shbe05/6749779ed0/60315
 #EXTINF:-1,Premium News HD
-http://showmetv.live:80/shbe10/6749779ed0/60314
+http://showmetv.live:80/shbe05/6749779ed0/60314
 #EXTINF:-1,SSC Sports 1 low
-http://showmetv.live:80/shbe10/6749779ed0/70949
+http://showmetv.live:80/shbe05/6749779ed0/70949
 #EXTINF:-1,SSC Sports 2 low
-http://showmetv.live:80/shbe10/6749779ed0/70948
+http://showmetv.live:80/shbe05/6749779ed0/70948
 #EXTINF:-1,SSC Sports 3 low
-http://showmetv.live:80/shbe10/6749779ed0/70947
+http://showmetv.live:80/shbe05/6749779ed0/70947
 #EXTINF:-1,SSC Sports 4 low
-http://showmetv.live:80/shbe10/6749779ed0/70946
+http://showmetv.live:80/shbe05/6749779ed0/70946
 #EXTINF:-1,SSC Sports 5 low
-http://showmetv.live:80/shbe10/6749779ed0/70945
+http://showmetv.live:80/shbe05/6749779ed0/70945
 #EXTINF:-1,SSC Sports 6 low
-http://showmetv.live:80/shbe10/6749779ed0/70944
+http://showmetv.live:80/shbe05/6749779ed0/70944
 #EXTINF:-1,SSC Sports 7 low
-http://showmetv.live:80/shbe10/6749779ed0/70943
+http://showmetv.live:80/shbe05/6749779ed0/70943
 #EXTINF:-1,SSC Sports 1SD
-http://showmetv.live:80/shbe10/6749779ed0/60820
+http://showmetv.live:80/shbe05/6749779ed0/60820
 #EXTINF:-1,SSC Sports 2SD
-http://showmetv.live:80/shbe10/6749779ed0/60819
+http://showmetv.live:80/shbe05/6749779ed0/60819
 #EXTINF:-1,SSC Sports 3SD
-http://showmetv.live:80/shbe10/6749779ed0/60818
+http://showmetv.live:80/shbe05/6749779ed0/60818
 #EXTINF:-1,SSC Sports 4SD
-http://showmetv.live:80/shbe10/6749779ed0/60817
+http://showmetv.live:80/shbe05/6749779ed0/60817
 #EXTINF:-1,SSC Sports 5SD
-http://showmetv.live:80/shbe10/6749779ed0/60816
+http://showmetv.live:80/shbe05/6749779ed0/60816
 #EXTINF:-1,SSC Sports 6SD
-http://showmetv.live:80/shbe10/6749779ed0/60815
+http://showmetv.live:80/shbe05/6749779ed0/60815
 #EXTINF:-1,SSC Sports 7SD
-http://showmetv.live:80/shbe10/6749779ed0/60814
+http://showmetv.live:80/shbe05/6749779ed0/60814
 #EXTINF:-1,SSC Sports 1HD
-http://showmetv.live:80/shbe10/6749779ed0/60858
+http://showmetv.live:80/shbe05/6749779ed0/60858
 #EXTINF:-1,SSC Sports 2HD
-http://showmetv.live:80/shbe10/6749779ed0/61029
+http://showmetv.live:80/shbe05/6749779ed0/61029
 #EXTINF:-1,SSC Sports 3HD
-http://showmetv.live:80/shbe10/6749779ed0/62267
+http://showmetv.live:80/shbe05/6749779ed0/62267
 #EXTINF:-1,SSC Sports 4HD
-http://showmetv.live:80/shbe10/6749779ed0/62268
+http://showmetv.live:80/shbe05/6749779ed0/62268
 #EXTINF:-1,SSC Sports 5HD
-http://showmetv.live:80/shbe10/6749779ed0/61032
+http://showmetv.live:80/shbe05/6749779ed0/61032
 #EXTINF:-1,SSC Sports 6HD
-http://showmetv.live:80/shbe10/6749779ed0/61034
+http://showmetv.live:80/shbe05/6749779ed0/61034
 #EXTINF:-1,SSC Sports 7HD
-http://showmetv.live:80/shbe10/6749779ed0/61068
+http://showmetv.live:80/shbe05/6749779ed0/61068
 #EXTINF:-1,SSC Sports 1 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/60859
+http://showmetv.live:80/shbe05/6749779ed0/60859
 #EXTINF:-1,SSC Sports 2 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/61030
+http://showmetv.live:80/shbe05/6749779ed0/61030
 #EXTINF:-1,SSC Sports 3 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/62265
+http://showmetv.live:80/shbe05/6749779ed0/62265
 #EXTINF:-1,SSC Sports 4 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/62266
+http://showmetv.live:80/shbe05/6749779ed0/62266
 #EXTINF:-1,SSC Sports 5 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/61031
+http://showmetv.live:80/shbe05/6749779ed0/61031
 #EXTINF:-1,SSC Sports 6 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/61033
+http://showmetv.live:80/shbe05/6749779ed0/61033
 #EXTINF:-1,SSC Sports 7 4K (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/61067
+http://showmetv.live:80/shbe05/6749779ed0/61067
 #EXTINF:-1,GOBX MBC1 HD
-http://showmetv.live:80/shbe10/6749779ed0/12379
+http://showmetv.live:80/shbe05/6749779ed0/12379
 #EXTINF:-1,GOBX MBC2 HD
-http://showmetv.live:80/shbe10/6749779ed0/12380
+http://showmetv.live:80/shbe05/6749779ed0/12380
 #EXTINF:-1,GOBX MBC3 HD
-http://showmetv.live:80/shbe10/6749779ed0/12381
+http://showmetv.live:80/shbe05/6749779ed0/12381
 #EXTINF:-1,GOBX MBC4 HD
-http://showmetv.live:80/shbe10/6749779ed0/12382
+http://showmetv.live:80/shbe05/6749779ed0/12382
 #EXTINF:-1,GOBX MBC MAX HD
-http://showmetv.live:80/shbe10/6749779ed0/12383
+http://showmetv.live:80/shbe05/6749779ed0/12383
 #EXTINF:-1,GOBX MBC Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/12384
+http://showmetv.live:80/shbe05/6749779ed0/12384
 #EXTINF:-1,GOBX MBC  VARIETY HD
-http://showmetv.live:80/shbe10/6749779ed0/13353
+http://showmetv.live:80/shbe05/6749779ed0/13353
 #EXTINF:-1,GOBX MBC BOLLYWOOD HD
-http://showmetv.live:80/shbe10/6749779ed0/12386
+http://showmetv.live:80/shbe05/6749779ed0/12386
 #EXTINF:-1,GOBX MBC Action HD
-http://showmetv.live:80/shbe10/6749779ed0/12385
+http://showmetv.live:80/shbe05/6749779ed0/12385
 #EXTINF:-1,GOBX MBC+ Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/13117
+http://showmetv.live:80/shbe05/6749779ed0/13117
 #EXTINF:-1,GOBX Reel PX Cinema HD
-http://showmetv.live:80/shbe10/6749779ed0/11538
+http://showmetv.live:80/shbe05/6749779ed0/11538
 #EXTINF:-1,GOBX Reel PX Action HD
-http://showmetv.live:80/shbe10/6749779ed0/18626
+http://showmetv.live:80/shbe05/6749779ed0/18626
 #EXTINF:-1,GOBX Reel PX Family HD
-http://showmetv.live:80/shbe10/6749779ed0/16532
+http://showmetv.live:80/shbe05/6749779ed0/16532
 #EXTINF:-1,GOBX Reel PX Unlimited HD
-http://showmetv.live:80/shbe10/6749779ed0/11651
+http://showmetv.live:80/shbe05/6749779ed0/11651
 #EXTINF:-1,GOBX Reel PX Comedy HD
-http://showmetv.live:80/shbe10/6749779ed0/18625
+http://showmetv.live:80/shbe05/6749779ed0/18625
 #EXTINF:-1,GOBX TDC Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/19174
+http://showmetv.live:80/shbe05/6749779ed0/19174
 #EXTINF:-1,GOBX Filmbox HD
-http://showmetv.live:80/shbe10/6749779ed0/11440
+http://showmetv.live:80/shbe05/6749779ed0/11440
 #EXTINF:-1,GOBX FilmBox Art House HD
-http://showmetv.live:80/shbe10/6749779ed0/13850
+http://showmetv.live:80/shbe05/6749779ed0/13850
 #EXTINF:-1,GOBX Fight Box HD
-http://showmetv.live:80/shbe10/6749779ed0/12630
+http://showmetv.live:80/shbe05/6749779ed0/12630
 #EXTINF:-1,GOBX Docu Box HD
-http://showmetv.live:80/shbe10/6749779ed0/12452
+http://showmetv.live:80/shbe05/6749779ed0/12452
 #EXTINF:-1,GOBX Fashion Box HD
-http://showmetv.live:80/shbe10/6749779ed0/55819
+http://showmetv.live:80/shbe05/6749779ed0/55819
 #EXTINF:-1,GOBX Fast And Fun
-http://showmetv.live:80/shbe10/6749779ed0/43142
+http://showmetv.live:80/shbe05/6749779ed0/43142
 #EXTINF:-1,GOBX 360 Tune Box HD
-http://showmetv.live:80/shbe10/6749779ed0/17118
+http://showmetv.live:80/shbe05/6749779ed0/17118
 #EXTINF:-1,GOBX Documentary Bil Arabi HD
-http://showmetv.live:80/shbe10/6749779ed0/43488
+http://showmetv.live:80/shbe05/6749779ed0/43488
 #EXTINF:-1,GOBX Planet Earth HD
 https://www.youtube.com/watch?v=jAZEBQO8Gfc
 #EXTINF:-1,GOBX Horse TV HD
-http://showmetv.live:80/shbe10/6749779ed0/50330
+http://showmetv.live:80/shbe05/6749779ed0/50330
 #EXTINF:-1,GOBX Nautical TV HD
-http://showmetv.live:80/shbe10/6749779ed0/13590
+http://showmetv.live:80/shbe05/6749779ed0/13590
 #EXTINF:-1,GOBX Motorvision Channel HD
-http://showmetv.live:80/shbe10/6749779ed0/43141
+http://showmetv.live:80/shbe05/6749779ed0/43141
 #EXTINF:-1,GOBX Fight Network
-http://showmetv.live:80/shbe10/6749779ed0/58464
+http://showmetv.live:80/shbe05/6749779ed0/58464
 #EXTINF:-1,GOBX Game Toon HD
-http://showmetv.live:80/shbe10/6749779ed0/50439
+http://showmetv.live:80/shbe05/6749779ed0/50439
 #EXTINF:-1,GOBX Trace Sport Stars HD
-http://showmetv.live:80/shbe10/6749779ed0/17120
+http://showmetv.live:80/shbe05/6749779ed0/17120
 #EXTINF:-1,GOBX Trace Urban HD
-http://showmetv.live:80/shbe10/6749779ed0/17119
+http://showmetv.live:80/shbe05/6749779ed0/17119
 #EXTINF:-1,GOBX Tiji
-http://showmetv.live:80/shbe10/6749779ed0/43143
+http://showmetv.live:80/shbe05/6749779ed0/43143
 #EXTINF:-1,GOBX Laab W Gad HD
-http://showmetv.live:80/shbe10/6749779ed0/18624
+http://showmetv.live:80/shbe05/6749779ed0/18624
 #EXTINF:-1,GOBX Gulli Bil Arabie HD
-http://showmetv.live:80/shbe10/6749779ed0/12112
+http://showmetv.live:80/shbe05/6749779ed0/12112
 #EXTINF:-1,GOBX FIX & FOXI
-http://showmetv.live:80/shbe10/6749779ed0/13591
+http://showmetv.live:80/shbe05/6749779ed0/13591
 #EXTINF:-1,GOBX Duck TV
-http://showmetv.live:80/shbe10/6749779ed0/16533
+http://showmetv.live:80/shbe05/6749779ed0/16533
 #EXTINF:-1,GOBX ZooMoo TV
-http://showmetv.live:80/shbe10/6749779ed0/40156
+http://showmetv.live:80/shbe05/6749779ed0/40156
 #EXTINF:-1,Al MAJD General
-http://showmetv.live:80/shbe10/6749779ed0/18075
+http://showmetv.live:80/shbe05/6749779ed0/18075
 #EXTINF:-1,Al MAJD Quran
-http://showmetv.live:80/shbe10/6749779ed0/18076
+http://showmetv.live:80/shbe05/6749779ed0/18076
 #EXTINF:-1,Al MAJD Hadith
-http://showmetv.live:80/shbe10/6749779ed0/18077
+http://showmetv.live:80/shbe05/6749779ed0/18077
 #EXTINF:-1,Al MAJD Scientific
-http://showmetv.live:80/shbe10/6749779ed0/18078
+http://showmetv.live:80/shbe05/6749779ed0/18078
 #EXTINF:-1,Al MAJD Documentary
-http://showmetv.live:80/shbe10/6749779ed0/18080
+http://showmetv.live:80/shbe05/6749779ed0/18080
 #EXTINF:-1,Al MAJD Natural
-http://showmetv.live:80/shbe10/6749779ed0/18081
+http://showmetv.live:80/shbe05/6749779ed0/18081
 #EXTINF:-1,Al MAJD Masa
-http://showmetv.live:80/shbe10/6749779ed0/43177
+http://showmetv.live:80/shbe05/6749779ed0/43177
 #EXTINF:-1,Al MAJD News
-http://showmetv.live:80/shbe10/6749779ed0/18079
+http://showmetv.live:80/shbe05/6749779ed0/18079
 #EXTINF:-1,Al MAJD Taghareed
-http://showmetv.live:80/shbe10/6749779ed0/18083
+http://showmetv.live:80/shbe05/6749779ed0/18083
 #EXTINF:-1,Al MAJD Rawda
-http://showmetv.live:80/shbe10/6749779ed0/18082
+http://showmetv.live:80/shbe05/6749779ed0/18082
 #EXTINF:-1,Al MAJD Kids
-http://showmetv.live:80/shbe10/6749779ed0/26934
+http://showmetv.live:80/shbe05/6749779ed0/26934
 #EXTINF:-1,Al MAJD Basma
-http://showmetv.live:80/shbe10/6749779ed0/18084
+http://showmetv.live:80/shbe05/6749779ed0/18084
 #EXTINF:-1,Max Cinema HD
-http://showmetv.live:80/shbe10/6749779ed0/56182
+http://showmetv.live:80/shbe05/6749779ed0/56182
 #EXTINF:-1,Max Fantsay HD
-http://showmetv.live:80/shbe10/6749779ed0/56181
+http://showmetv.live:80/shbe05/6749779ed0/56181
 #EXTINF:-1,Max Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/56180
+http://showmetv.live:80/shbe05/6749779ed0/56180
 #EXTINF:-1,MAX Comedy HD
-http://showmetv.live:80/shbe10/6749779ed0/56179
+http://showmetv.live:80/shbe05/6749779ed0/56179
 #EXTINF:-1,Max Action HD
-http://showmetv.live:80/shbe10/6749779ed0/56178
+http://showmetv.live:80/shbe05/6749779ed0/56178
 #EXTINF:-1,MBC Pro movies
-http://showmetv.live:80/shbe10/6749779ed0/48685
+http://showmetv.live:80/shbe05/6749779ed0/48685
 #EXTINF:-1,MBC Pro prime
-http://showmetv.live:80/shbe10/6749779ed0/48684
+http://showmetv.live:80/shbe05/6749779ed0/48684
 #EXTINF:-1,MBC Pro war
-http://showmetv.live:80/shbe10/6749779ed0/48683
+http://showmetv.live:80/shbe05/6749779ed0/48683
 #EXTINF:-1,MBC Pro Junior
-http://showmetv.live:80/shbe10/6749779ed0/48682
+http://showmetv.live:80/shbe05/6749779ed0/48682
 #EXTINF:-1,MBC Pro aflam
-http://showmetv.live:80/shbe10/6749779ed0/48681
+http://showmetv.live:80/shbe05/6749779ed0/48681
 #EXTINF:-1,MBC Pro horror
-http://showmetv.live:80/shbe10/6749779ed0/48680
+http://showmetv.live:80/shbe05/6749779ed0/48680
 #EXTINF:-1,MBC Pro cinema
-http://showmetv.live:80/shbe10/6749779ed0/48679
+http://showmetv.live:80/shbe05/6749779ed0/48679
 #EXTINF:-1,Majestic Horror HD
-http://showmetv.live:80/shbe10/6749779ed0/47776
+http://showmetv.live:80/shbe05/6749779ed0/47776
 #EXTINF:-1,Majestic Arabic HD
-http://showmetv.live:80/shbe10/6749779ed0/47775
+http://showmetv.live:80/shbe05/6749779ed0/47775
 #EXTINF:-1,Majestic Action HD
-http://showmetv.live:80/shbe10/6749779ed0/47774
+http://showmetv.live:80/shbe05/6749779ed0/47774
 #EXTINF:-1,Majestic Teatre HD
-http://showmetv.live:80/shbe10/6749779ed0/47773
+http://showmetv.live:80/shbe05/6749779ed0/47773
 #EXTINF:-1,Majestic Hendy HD
-http://showmetv.live:80/shbe10/6749779ed0/47772
+http://showmetv.live:80/shbe05/6749779ed0/47772
 #EXTINF:-1,Majestic Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/47771
+http://showmetv.live:80/shbe05/6749779ed0/47771
 #EXTINF:-1,Majestic Kids HD
-http://showmetv.live:80/shbe10/6749779ed0/47770
+http://showmetv.live:80/shbe05/6749779ed0/47770
 #EXTINF:-1,Majestic Aflam HD
-http://showmetv.live:80/shbe10/6749779ed0/47769
+http://showmetv.live:80/shbe05/6749779ed0/47769
 #EXTINF:-1,Majestic Comedy HD
-http://showmetv.live:80/shbe10/6749779ed0/47768
+http://showmetv.live:80/shbe05/6749779ed0/47768
 #EXTINF:-1,Shahid Aflam 1 HD
-http://showmetv.live:80/shbe10/6749779ed0/46947
+http://showmetv.live:80/shbe05/6749779ed0/46947
 #EXTINF:-1,Shahid Aflam 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/46946
+http://showmetv.live:80/shbe05/6749779ed0/46946
 #EXTINF:-1,Shahid Cinema HD
-http://showmetv.live:80/shbe10/6749779ed0/46945
+http://showmetv.live:80/shbe05/6749779ed0/46945
 #EXTINF:-1,Shahid Zaman HD
-http://showmetv.live:80/shbe10/6749779ed0/46944
+http://showmetv.live:80/shbe05/6749779ed0/46944
 #EXTINF:-1,Shahid Action HD
-http://showmetv.live:80/shbe10/6749779ed0/46943
+http://showmetv.live:80/shbe05/6749779ed0/46943
 #EXTINF:-1,Shahid Horror HD
-http://showmetv.live:80/shbe10/6749779ed0/46942
+http://showmetv.live:80/shbe05/6749779ed0/46942
 #EXTINF:-1,Shahid Clip HD
-http://showmetv.live:80/shbe10/6749779ed0/46940
+http://showmetv.live:80/shbe05/6749779ed0/46940
 #EXTINF:-1,Shahid Cartoon HD
-http://showmetv.live:80/shbe10/6749779ed0/46939
+http://showmetv.live:80/shbe05/6749779ed0/46939
 #EXTINF:-1,Family Kids
-http://showmetv.live:80/shbe10/6749779ed0/46963
+http://showmetv.live:80/shbe05/6749779ed0/46963
 #EXTINF:-1,Family Kids 2
-http://showmetv.live:80/shbe10/6749779ed0/46962
+http://showmetv.live:80/shbe05/6749779ed0/46962
 #EXTINF:-1,Family Masrhyat
-http://showmetv.live:80/shbe10/6749779ed0/46961
+http://showmetv.live:80/shbe05/6749779ed0/46961
 #EXTINF:-1,Family Masrhyat 2
-http://showmetv.live:80/shbe10/6749779ed0/46960
+http://showmetv.live:80/shbe05/6749779ed0/46960
 #EXTINF:-1,Family Movies
-http://showmetv.live:80/shbe10/6749779ed0/46959
+http://showmetv.live:80/shbe05/6749779ed0/46959
 #EXTINF:-1,Family Movies 2
-http://showmetv.live:80/shbe10/6749779ed0/46958
+http://showmetv.live:80/shbe05/6749779ed0/46958
 #EXTINF:-1,Family History 2
-http://showmetv.live:80/shbe10/6749779ed0/46957
+http://showmetv.live:80/shbe05/6749779ed0/46957
 #EXTINF:-1,Beout Q Movies Action 1
-http://showmetv.live:80/shbe10/6749779ed0/46956
+http://showmetv.live:80/shbe05/6749779ed0/46956
 #EXTINF:-1,Beout Q Movies Action 2
-http://showmetv.live:80/shbe10/6749779ed0/46955
+http://showmetv.live:80/shbe05/6749779ed0/46955
 #EXTINF:-1,Beout Q Movies 1
-http://showmetv.live:80/shbe10/6749779ed0/46954
+http://showmetv.live:80/shbe05/6749779ed0/46954
 #EXTINF:-1,Beout Q Movies 2
-http://showmetv.live:80/shbe10/6749779ed0/46953
+http://showmetv.live:80/shbe05/6749779ed0/46953
 #EXTINF:-1,NETFLIX Comedy
-http://showmetv.live:80/shbe10/6749779ed0/46952
+http://showmetv.live:80/shbe05/6749779ed0/46952
 #EXTINF:-1,NETFLIX Drama
-http://showmetv.live:80/shbe10/6749779ed0/46951
+http://showmetv.live:80/shbe05/6749779ed0/46951
 #EXTINF:-1,NETFLIX Horror
-http://showmetv.live:80/shbe10/6749779ed0/46950
+http://showmetv.live:80/shbe05/6749779ed0/46950
 #EXTINF:-1,NETFLIX Romancy
-http://showmetv.live:80/shbe10/6749779ed0/46949
+http://showmetv.live:80/shbe05/6749779ed0/46949
 #EXTINF:-1,NETFLIX Kids
-http://showmetv.live:80/shbe10/6749779ed0/46948
+http://showmetv.live:80/shbe05/6749779ed0/46948
 #EXTINF:-1,EG: Nogoum FM - نجوم اف ام
-http://showmetv.live:80/shbe10/6749779ed0/60590
+http://showmetv.live:80/shbe05/6749779ed0/60590
 #EXTINF:-1,EG: Sha3by FM - شعبي اف ام
-http://showmetv.live:80/shbe10/6749779ed0/46867
+http://showmetv.live:80/shbe05/6749779ed0/46867
 #EXTINF:-1,EG: Radio Hits - راديو هيتس
-http://showmetv.live:80/shbe10/6749779ed0/46866
+http://showmetv.live:80/shbe05/6749779ed0/46866
 #EXTINF:-1,EG: Nagham FM - نغم اف ام
-http://showmetv.live:80/shbe10/6749779ed0/46865
+http://showmetv.live:80/shbe05/6749779ed0/46865
 #EXTINF:-1,EG: Mega FM  - ميجا اف ام
-http://showmetv.live:80/shbe10/6749779ed0/46864
+http://showmetv.live:80/shbe05/6749779ed0/46864
 #EXTINF:-1,EG: Sout AL Arab - صوت العرب
-http://showmetv.live:80/shbe10/6749779ed0/46863
+http://showmetv.live:80/shbe05/6749779ed0/46863
 #EXTINF:-1,EG: ELRADIO 9090 - الراديو 9090
-http://showmetv.live:80/shbe10/6749779ed0/46862
+http://showmetv.live:80/shbe05/6749779ed0/46862
 #EXTINF:-1,EG: AL Sharq AL Awsat - الشرق الاوسط
-http://showmetv.live:80/shbe10/6749779ed0/46861
+http://showmetv.live:80/shbe05/6749779ed0/46861
 #EXTINF:-1,EG: AL Shabab W Al reyadah - الشباب والرياضة
-http://showmetv.live:80/shbe10/6749779ed0/46860
+http://showmetv.live:80/shbe05/6749779ed0/46860
 #EXTINF:-1,EG: AL Quran AL Karem - القرأن الكريم
-http://showmetv.live:80/shbe10/6749779ed0/46859
+http://showmetv.live:80/shbe05/6749779ed0/46859
 #EXTINF:-1,EG: AL Kahera Al Kobra - القاهره الكبري
-http://showmetv.live:80/shbe10/6749779ed0/46858
+http://showmetv.live:80/shbe05/6749779ed0/46858
 #EXTINF:-1,EG: AL bernameg AL orobi - البرنامج الاوروبي
-http://showmetv.live:80/shbe10/6749779ed0/46857
+http://showmetv.live:80/shbe05/6749779ed0/46857
 #EXTINF:-1,EG: AL Bernameg AL moussekey - البرنامج الموسيقي
-http://showmetv.live:80/shbe10/6749779ed0/46856
+http://showmetv.live:80/shbe05/6749779ed0/46856
 #EXTINF:-1,EG: AL bernameg AL aam - البرنامج العام
-http://showmetv.live:80/shbe10/6749779ed0/46855
+http://showmetv.live:80/shbe05/6749779ed0/46855
 #EXTINF:-1,Al Fajer TV HD1
-http://showmetv.live:80/shbe10/6749779ed0/16748
+http://showmetv.live:80/shbe05/6749779ed0/16748
 #EXTINF:-1,Al Fajer TV HD2
-http://showmetv.live:80/shbe10/6749779ed0/16747
+http://showmetv.live:80/shbe05/6749779ed0/16747
 #EXTINF:-1,Al Fajer TV HD3
-http://showmetv.live:80/shbe10/6749779ed0/16746
+http://showmetv.live:80/shbe05/6749779ed0/16746
 #EXTINF:-1,Al Fajer TV HD4
-http://showmetv.live:80/shbe10/6749779ed0/16745
+http://showmetv.live:80/shbe05/6749779ed0/16745
 #EXTINF:-1,Al Fajer TV HD5
-http://showmetv.live:80/shbe10/6749779ed0/16744
+http://showmetv.live:80/shbe05/6749779ed0/16744
 #EXTINF:-1,Ar: Madrasetna 3
-http://showmetv.live:80/shbe10/6749779ed0/66924
+http://showmetv.live:80/shbe05/6749779ed0/66924
 #EXTINF:-1,Ar: Madrasetna
-http://showmetv.live:80/shbe10/6749779ed0/47108
+http://showmetv.live:80/shbe05/6749779ed0/47108
 #EXTINF:-1,Ar: Madrasetna 2
-http://showmetv.live:80/shbe10/6749779ed0/47106
+http://showmetv.live:80/shbe05/6749779ed0/47106
 #EXTINF:-1,Ar: Egy EDUC  1
-http://showmetv.live:80/shbe10/6749779ed0/47104
+http://showmetv.live:80/shbe05/6749779ed0/47104
 #EXTINF:-1,Ar: iEN TV
-http://showmetv.live:80/shbe10/6749779ed0/47185
+http://showmetv.live:80/shbe05/6749779ed0/47185
 #EXTINF:-1,Ar: iEN Doros 01
-http://showmetv.live:80/shbe10/6749779ed0/47184
+http://showmetv.live:80/shbe05/6749779ed0/47184
 #EXTINF:-1,Ar: iEN Doros 02
-http://showmetv.live:80/shbe10/6749779ed0/47183
+http://showmetv.live:80/shbe05/6749779ed0/47183
 #EXTINF:-1,Ar: iEN Doros 03
-http://showmetv.live:80/shbe10/6749779ed0/47182
+http://showmetv.live:80/shbe05/6749779ed0/47182
 #EXTINF:-1,Ar: iEN Doros 04
-http://showmetv.live:80/shbe10/6749779ed0/47181
+http://showmetv.live:80/shbe05/6749779ed0/47181
 #EXTINF:-1,Ar: iEN Doros 05
-http://showmetv.live:80/shbe10/6749779ed0/47180
+http://showmetv.live:80/shbe05/6749779ed0/47180
 #EXTINF:-1,Ar: iEN Doros 06
-http://showmetv.live:80/shbe10/6749779ed0/47179
+http://showmetv.live:80/shbe05/6749779ed0/47179
 #EXTINF:-1,Ar: iEN Doros 07
-http://showmetv.live:80/shbe10/6749779ed0/47178
+http://showmetv.live:80/shbe05/6749779ed0/47178
 #EXTINF:-1,Ar: iEN Doros 08
-http://showmetv.live:80/shbe10/6749779ed0/47177
+http://showmetv.live:80/shbe05/6749779ed0/47177
 #EXTINF:-1,Ar: iEN Doros 09
-http://showmetv.live:80/shbe10/6749779ed0/47176
+http://showmetv.live:80/shbe05/6749779ed0/47176
 #EXTINF:-1,Ar: iEN Doros 10
-http://showmetv.live:80/shbe10/6749779ed0/47175
+http://showmetv.live:80/shbe05/6749779ed0/47175
 #EXTINF:-1,Ar: iEN Doros 11
-http://showmetv.live:80/shbe10/6749779ed0/47174
+http://showmetv.live:80/shbe05/6749779ed0/47174
 #EXTINF:-1,Ar: iEN Doros 12
-http://showmetv.live:80/shbe10/6749779ed0/47173
+http://showmetv.live:80/shbe05/6749779ed0/47173
 #EXTINF:-1,Ar: iEN Doros 13
-http://showmetv.live:80/shbe10/6749779ed0/47172
+http://showmetv.live:80/shbe05/6749779ed0/47172
 #EXTINF:-1,Ar: iEN Doros 14
-http://showmetv.live:80/shbe10/6749779ed0/47171
+http://showmetv.live:80/shbe05/6749779ed0/47171
 #EXTINF:-1,Ar: iEN Doros 15
-http://showmetv.live:80/shbe10/6749779ed0/47170
+http://showmetv.live:80/shbe05/6749779ed0/47170
 #EXTINF:-1,Ar: iEN Doros 16
-http://showmetv.live:80/shbe10/6749779ed0/47169
+http://showmetv.live:80/shbe05/6749779ed0/47169
 #EXTINF:-1,Ar: iEN Doros 17
-http://showmetv.live:80/shbe10/6749779ed0/47168
+http://showmetv.live:80/shbe05/6749779ed0/47168
 #EXTINF:-1,Ar: iEN Doros 18
-http://showmetv.live:80/shbe10/6749779ed0/47167
+http://showmetv.live:80/shbe05/6749779ed0/47167
 #EXTINF:-1,Ar: iEN Doros19
-http://showmetv.live:80/shbe10/6749779ed0/47166
+http://showmetv.live:80/shbe05/6749779ed0/47166
 #EXTINF:-1,Ar: iEN Doros 20
-http://showmetv.live:80/shbe10/6749779ed0/47165
+http://showmetv.live:80/shbe05/6749779ed0/47165
 #EXTINF:-1,Ar: iEN Doros 21
-http://showmetv.live:80/shbe10/6749779ed0/47164
+http://showmetv.live:80/shbe05/6749779ed0/47164
 #EXTINF:-1,Ar: iEN Doros 22
-http://showmetv.live:80/shbe10/6749779ed0/47163
+http://showmetv.live:80/shbe05/6749779ed0/47163
 #EXTINF:-1,Ar: iEN Doros 23
-http://showmetv.live:80/shbe10/6749779ed0/47162
+http://showmetv.live:80/shbe05/6749779ed0/47162
 #EXTINF:-1,Ar: Darsak 1
-http://showmetv.live:80/shbe10/6749779ed0/58450
+http://showmetv.live:80/shbe05/6749779ed0/58450
 #EXTINF:-1,Ar: Darsak 2
-http://showmetv.live:80/shbe10/6749779ed0/58451
+http://showmetv.live:80/shbe05/6749779ed0/58451
 #EXTINF:-1,Ar: Darsak Tawjihi
-http://showmetv.live:80/shbe10/6749779ed0/58452
+http://showmetv.live:80/shbe05/6749779ed0/58452
 #EXTINF:-1,Ar: Al Ressala FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46388
+http://showmetv.live:80/shbe05/6749779ed0/46388
 #EXTINF:-1,Ar: AL Ressala HD
-http://showmetv.live:80/shbe10/6749779ed0/46824
+http://showmetv.live:80/shbe05/6749779ed0/46824
 #EXTINF:-1,Ar: Saudia Sunnah FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46390
+http://showmetv.live:80/shbe05/6749779ed0/46390
 #EXTINF:-1,Ar: Saudi Sunnah HD
-http://showmetv.live:80/shbe10/6749779ed0/46822
+http://showmetv.live:80/shbe05/6749779ed0/46822
 #EXTINF:-1,Ar: Saudia Quran FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46389
+http://showmetv.live:80/shbe05/6749779ed0/46389
 #EXTINF:-1,Ar: Saudia Quran HD
-http://showmetv.live:80/shbe10/6749779ed0/46821
+http://showmetv.live:80/shbe05/6749779ed0/46821
 #EXTINF:-1,Ar: Iqraa TV
-http://showmetv.live:80/shbe10/6749779ed0/46823
+http://showmetv.live:80/shbe05/6749779ed0/46823
 #EXTINF:-1,Ar: Iqraa International
-http://showmetv.live:80/shbe10/6749779ed0/50004
+http://showmetv.live:80/shbe05/6749779ed0/50004
 #EXTINF:-1,Ar: Wesal TV
-http://showmetv.live:80/shbe10/6749779ed0/46820
+http://showmetv.live:80/shbe05/6749779ed0/46820
 #EXTINF:-1,Ar: Al-Ma'aly
-http://showmetv.live:80/shbe10/6749779ed0/46819
+http://showmetv.live:80/shbe05/6749779ed0/46819
 #EXTINF:-1,Ar: Huda TV
-http://showmetv.live:80/shbe10/6749779ed0/46818
+http://showmetv.live:80/shbe05/6749779ed0/46818
 #EXTINF:-1,Ar: AL Rahma
-http://showmetv.live:80/shbe10/6749779ed0/46817
+http://showmetv.live:80/shbe05/6749779ed0/46817
 #EXTINF:-1,Ar: Al Nas
-http://showmetv.live:80/shbe10/6749779ed0/46816
+http://showmetv.live:80/shbe05/6749779ed0/46816
 #EXTINF:-1,Ar: Azhari
-http://showmetv.live:80/shbe10/6749779ed0/46815
+http://showmetv.live:80/shbe05/6749779ed0/46815
 #EXTINF:-1,Ar: AL Nada TV
-http://showmetv.live:80/shbe10/6749779ed0/46809
+http://showmetv.live:80/shbe05/6749779ed0/46809
 #EXTINF:-1,Ar: ZAD TV
-http://showmetv.live:80/shbe10/6749779ed0/46814
+http://showmetv.live:80/shbe05/6749779ed0/46814
 #EXTINF:-1,Ar: Mecca HD
-http://showmetv.live:80/shbe10/6749779ed0/46813
+http://showmetv.live:80/shbe05/6749779ed0/46813
 #EXTINF:-1,Ar: Ahel Al Quran
-http://showmetv.live:80/shbe10/6749779ed0/46812
+http://showmetv.live:80/shbe05/6749779ed0/46812
 #EXTINF:-1,Ar: Quran TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46811
+http://showmetv.live:80/shbe05/6749779ed0/46811
 #EXTINF:-1,Ar: Bahran Quran
-http://showmetv.live:80/shbe10/6749779ed0/46810
+http://showmetv.live:80/shbe05/6749779ed0/46810
 #EXTINF:-1,Ar: Al Naeem TV
-http://showmetv.live:80/shbe10/6749779ed0/58446
+http://showmetv.live:80/shbe05/6749779ed0/58446
 #EXTINF:-1,Ar: Al Istiqama
-http://showmetv.live:80/shbe10/6749779ed0/58445
+http://showmetv.live:80/shbe05/6749779ed0/58445
 #EXTINF:-1,Ar: Al Sirat TV
-http://showmetv.live:80/shbe10/6749779ed0/58444
+http://showmetv.live:80/shbe05/6749779ed0/58444
 #EXTINF:-1,Ar: Al iman TV
-http://showmetv.live:80/shbe10/6749779ed0/58442
+http://showmetv.live:80/shbe05/6749779ed0/58442
 #EXTINF:-1,Ar: AL Kawthar
-http://showmetv.live:80/shbe10/6749779ed0/58441
+http://showmetv.live:80/shbe05/6749779ed0/58441
 #EXTINF:-1,Ar: AL Maaref
-http://showmetv.live:80/shbe10/6749779ed0/58449
+http://showmetv.live:80/shbe05/6749779ed0/58449
 #EXTINF:-1,Ar: El Maqar HD
-http://showmetv.live:80/shbe10/6749779ed0/49497
+http://showmetv.live:80/shbe05/6749779ed0/49497
 #EXTINF:-1,Ar: Karma
-http://showmetv.live:80/shbe10/6749779ed0/46790
+http://showmetv.live:80/shbe05/6749779ed0/46790
 #EXTINF:-1,Ar: AL Karma Tasabeh HD
-http://showmetv.live:80/shbe10/6749779ed0/47205
+http://showmetv.live:80/shbe05/6749779ed0/47205
 #EXTINF:-1,Ar: AL Karma Talmaza HD
-http://showmetv.live:80/shbe10/6749779ed0/47204
+http://showmetv.live:80/shbe05/6749779ed0/47204
 #EXTINF:-1,Ar: AL Karma Family HD
-http://showmetv.live:80/shbe10/6749779ed0/47203
+http://showmetv.live:80/shbe05/6749779ed0/47203
 #EXTINF:-1,Ar: AL Karma Shabab HD
-http://showmetv.live:80/shbe10/6749779ed0/47202
+http://showmetv.live:80/shbe05/6749779ed0/47202
 #EXTINF:-1,Ar: AL Karma North America & Canada HD
-http://showmetv.live:80/shbe10/6749779ed0/47201
+http://showmetv.live:80/shbe05/6749779ed0/47201
 #EXTINF:-1,Ar: AL Karma Australia HD
-http://showmetv.live:80/shbe10/6749779ed0/47200
+http://showmetv.live:80/shbe05/6749779ed0/47200
 #EXTINF:-1,Ar: Nour Mariam
-http://showmetv.live:80/shbe10/6749779ed0/46800
+http://showmetv.live:80/shbe05/6749779ed0/46800
 #EXTINF:-1,Ar: Nour Sat
-http://showmetv.live:80/shbe10/6749779ed0/46797
+http://showmetv.live:80/shbe05/6749779ed0/46797
 #EXTINF:-1,Ar: Nour Koddass
-http://showmetv.live:80/shbe10/6749779ed0/46796
+http://showmetv.live:80/shbe05/6749779ed0/46796
 #EXTINF:-1,Ar: Nour Shabab
-http://showmetv.live:80/shbe10/6749779ed0/46795
+http://showmetv.live:80/shbe05/6749779ed0/46795
 #EXTINF:-1,Ar: Nour Al Sham
-http://showmetv.live:80/shbe10/6749779ed0/46794
+http://showmetv.live:80/shbe05/6749779ed0/46794
 #EXTINF:-1,Ar: Sat7 Kids Christian
-http://showmetv.live:80/shbe10/6749779ed0/46798
+http://showmetv.live:80/shbe05/6749779ed0/46798
 #EXTINF:-1,Ar: Sat 7 chris
-http://showmetv.live:80/shbe10/6749779ed0/46802
+http://showmetv.live:80/shbe05/6749779ed0/46802
 #EXTINF:-1,Ar: Aghapy TV
-http://showmetv.live:80/shbe10/6749779ed0/46808
+http://showmetv.live:80/shbe05/6749779ed0/46808
 #EXTINF:-1,Ar: Koogi TV
-http://showmetv.live:80/shbe10/6749779ed0/46807
+http://showmetv.live:80/shbe05/6749779ed0/46807
 #EXTINF:-1,Ar: CTV
-http://showmetv.live:80/shbe10/6749779ed0/46806
+http://showmetv.live:80/shbe05/6749779ed0/46806
 #EXTINF:-1,Ar: Cyc HD
-http://showmetv.live:80/shbe10/6749779ed0/46805
+http://showmetv.live:80/shbe05/6749779ed0/46805
 #EXTINF:-1,Ar: CNA TV
-http://showmetv.live:80/shbe10/6749779ed0/46804
+http://showmetv.live:80/shbe05/6749779ed0/46804
 #EXTINF:-1,Ar: Logos TV
-http://showmetv.live:80/shbe10/6749779ed0/46801
+http://showmetv.live:80/shbe05/6749779ed0/46801
 #EXTINF:-1,Ar: Malakoot TV
-http://showmetv.live:80/shbe10/6749779ed0/46799
+http://showmetv.live:80/shbe05/6749779ed0/46799
 #EXTINF:-1,Ar: Me Sat
-http://showmetv.live:80/shbe10/6749779ed0/46793
+http://showmetv.live:80/shbe05/6749779ed0/46793
 #EXTINF:-1,Ar: Miracle TV
-http://showmetv.live:80/shbe10/6749779ed0/46792
+http://showmetv.live:80/shbe05/6749779ed0/46792
 #EXTINF:-1,Ar: AlHayat Crestian
-http://showmetv.live:80/shbe10/6749779ed0/47199
+http://showmetv.live:80/shbe05/6749779ed0/47199
 #EXTINF:-1,Ar: IUC
-http://showmetv.live:80/shbe10/6749779ed0/54438
+http://showmetv.live:80/shbe05/6749779ed0/54438
 #EXTINF:-1,Ar: Al Horreya
-http://showmetv.live:80/shbe10/6749779ed0/58455
+http://showmetv.live:80/shbe05/6749779ed0/58455
 #EXTINF:-1,Ar: Al Ghad TV HD
-http://showmetv.live:80/shbe10/6749779ed0/55102
+http://showmetv.live:80/shbe05/6749779ed0/55102
 #EXTINF:-1,Ar: Asharq News Channel HD
-http://showmetv.live:80/shbe10/6749779ed0/47563
+http://showmetv.live:80/shbe05/6749779ed0/47563
 #EXTINF:-1,Ar: Sky News Arabia
-http://showmetv.live:80/shbe10/6749779ed0/46787
+http://showmetv.live:80/shbe05/6749779ed0/46787
 #EXTINF:-1,Ar: Al Jazeera Mubasher FHD (H.265 )
-http://showmetv.live:80/shbe10/6749779ed0/56190
+http://showmetv.live:80/shbe05/6749779ed0/56190
 #EXTINF:-1,Ar: Al Jazeera Mubasher HD
-http://showmetv.live:80/shbe10/6749779ed0/56189
+http://showmetv.live:80/shbe05/6749779ed0/56189
 #EXTINF:-1,Ar: Al Jazeera News FHD (H.265 )
-http://showmetv.live:80/shbe10/6749779ed0/56191
+http://showmetv.live:80/shbe05/6749779ed0/56191
 #EXTINF:-1,Ar: Al Jazeera News HD
-http://showmetv.live:80/shbe10/6749779ed0/56188
+http://showmetv.live:80/shbe05/6749779ed0/56188
 #EXTINF:-1,Ar: Hiwar TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46786
+http://showmetv.live:80/shbe05/6749779ed0/46786
 #EXTINF:-1,Ar: BBC Arabic
-http://showmetv.live:80/shbe10/6749779ed0/46785
+http://showmetv.live:80/shbe05/6749779ed0/46785
 #EXTINF:-1,Ar: France 24
-http://showmetv.live:80/shbe10/6749779ed0/46784
+http://showmetv.live:80/shbe05/6749779ed0/46784
 #EXTINF:-1,Ar: Al Alam News
-http://showmetv.live:80/shbe10/6749779ed0/46783
+http://showmetv.live:80/shbe05/6749779ed0/46783
 #EXTINF:-1,Ar: DW Arabic
-http://showmetv.live:80/shbe10/6749779ed0/46782
+http://showmetv.live:80/shbe05/6749779ed0/46782
 #EXTINF:-1,Ar: RT News Arabic FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46384
+http://showmetv.live:80/shbe05/6749779ed0/46384
 #EXTINF:-1,Ar: RT News Arabic HD
-http://showmetv.live:80/shbe10/6749779ed0/46781
+http://showmetv.live:80/shbe05/6749779ed0/46781
 #EXTINF:-1,Ar: TRT Arabic FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46382
+http://showmetv.live:80/shbe05/6749779ed0/46382
 #EXTINF:-1,Ar: TRT Arabi HD
-http://showmetv.live:80/shbe10/6749779ed0/46780
+http://showmetv.live:80/shbe05/6749779ed0/46780
 #EXTINF:-1,Ar: Al Araby FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46383
+http://showmetv.live:80/shbe05/6749779ed0/46383
 #EXTINF:-1,Ar: Al Araby TV
-http://showmetv.live:80/shbe10/6749779ed0/46779
+http://showmetv.live:80/shbe05/6749779ed0/46779
 #EXTINF:-1,Ar: Al Araby TV 2HD
-http://showmetv.live:80/shbe10/6749779ed0/70787
+http://showmetv.live:80/shbe05/6749779ed0/70787
 #EXTINF:-1,Ar: Al Arabia FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46385
+http://showmetv.live:80/shbe05/6749779ed0/46385
 #EXTINF:-1,Ar: Al Arabia HD
-http://showmetv.live:80/shbe10/6749779ed0/46778
+http://showmetv.live:80/shbe05/6749779ed0/46778
 #EXTINF:-1,Ar: AL Hadath
-http://showmetv.live:80/shbe10/6749779ed0/46777
+http://showmetv.live:80/shbe05/6749779ed0/46777
 #EXTINF:-1,Ar: CNBC Arabia
-http://showmetv.live:80/shbe10/6749779ed0/46775
+http://showmetv.live:80/shbe05/6749779ed0/46775
 #EXTINF:-1,Ar: Al Shorouk News
-http://showmetv.live:80/shbe10/6749779ed0/46774
+http://showmetv.live:80/shbe05/6749779ed0/46774
 #EXTINF:-1,Ar: AIC
-http://showmetv.live:80/shbe10/6749779ed0/46773
+http://showmetv.live:80/shbe05/6749779ed0/46773
 #EXTINF:-1,Ar: beIN SPORTS FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46366
+http://showmetv.live:80/shbe05/6749779ed0/46366
 #EXTINF:-1,Ar: beIN SPORTS HD
-http://showmetv.live:80/shbe10/6749779ed0/46772
+http://showmetv.live:80/shbe05/6749779ed0/46772
 #EXTINF:-1,Ar: beIN SPORTS NEWS FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46367
+http://showmetv.live:80/shbe05/6749779ed0/46367
 #EXTINF:-1,Ar: beIN Sports News HD
-http://showmetv.live:80/shbe10/6749779ed0/46771
+http://showmetv.live:80/shbe05/6749779ed0/46771
 #EXTINF:-1,Ar: AD Sports 1 Asia HD
-http://showmetv.live:80/shbe10/6749779ed0/61019
+http://showmetv.live:80/shbe05/6749779ed0/61019
 #EXTINF:-1,Ar: AD Sports 2 Asia FHD
-http://showmetv.live:80/shbe10/6749779ed0/61020
+http://showmetv.live:80/shbe05/6749779ed0/61020
 #EXTINF:-1,Ar: AD Sport 1FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46381
+http://showmetv.live:80/shbe05/6749779ed0/46381
 #EXTINF:-1,Ar: AD Sport 1HD
-http://showmetv.live:80/shbe10/6749779ed0/46770
+http://showmetv.live:80/shbe05/6749779ed0/46770
 #EXTINF:-1,Ar: AD Sport 2FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46380
+http://showmetv.live:80/shbe05/6749779ed0/46380
 #EXTINF:-1,Ar: AD Sport 2HD
-http://showmetv.live:80/shbe10/6749779ed0/46769
+http://showmetv.live:80/shbe05/6749779ed0/46769
 #EXTINF:-1,Ar: AD Sport 3FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46379
+http://showmetv.live:80/shbe05/6749779ed0/46379
 #EXTINF:-1,Ar: AD Sport 3HD
-http://showmetv.live:80/shbe10/6749779ed0/46768
+http://showmetv.live:80/shbe05/6749779ed0/46768
 #EXTINF:-1,Ar: AD Sport 4FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46378
+http://showmetv.live:80/shbe05/6749779ed0/46378
 #EXTINF:-1,Ar: AD Sport 4HD
-http://showmetv.live:80/shbe10/6749779ed0/46767
+http://showmetv.live:80/shbe05/6749779ed0/46767
 #EXTINF:-1,Ar: YAS Sports HD
-http://showmetv.live:80/shbe10/6749779ed0/46766
+http://showmetv.live:80/shbe05/6749779ed0/46766
 #EXTINF:-1,Ar: KSA Sport 1 FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46377
+http://showmetv.live:80/shbe05/6749779ed0/46377
 #EXTINF:-1,Ar: KSA Sport 1HD
-http://showmetv.live:80/shbe10/6749779ed0/46765
+http://showmetv.live:80/shbe05/6749779ed0/46765
 #EXTINF:-1,Ar: KSA Sport 2 FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46376
+http://showmetv.live:80/shbe05/6749779ed0/46376
 #EXTINF:-1,Ar: KSA Sport 2HD
-http://showmetv.live:80/shbe10/6749779ed0/46764
+http://showmetv.live:80/shbe05/6749779ed0/46764
 #EXTINF:-1,Ar: KSA Sport 3 FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46375
+http://showmetv.live:80/shbe05/6749779ed0/46375
 #EXTINF:-1,Ar: KSA Sport 3 HD
-http://showmetv.live:80/shbe10/6749779ed0/46763
+http://showmetv.live:80/shbe05/6749779ed0/46763
 #EXTINF:-1,Ar: KSA Sport 4 FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46374
+http://showmetv.live:80/shbe05/6749779ed0/46374
 #EXTINF:-1,Ar: KSA Sport 4 HD
-http://showmetv.live:80/shbe10/6749779ed0/46762
+http://showmetv.live:80/shbe05/6749779ed0/46762
 #EXTINF:-1,Ar: Al Kass One HD
-http://showmetv.live:80/shbe10/6749779ed0/46761
+http://showmetv.live:80/shbe05/6749779ed0/46761
 #EXTINF:-1,Ar: Al Kass Two HD
-http://showmetv.live:80/shbe10/6749779ed0/46760
+http://showmetv.live:80/shbe05/6749779ed0/46760
 #EXTINF:-1,Ar: Al Kass Three HD
-http://showmetv.live:80/shbe10/6749779ed0/46759
+http://showmetv.live:80/shbe05/6749779ed0/46759
 #EXTINF:-1,Ar: Al Kass Four HD
-http://showmetv.live:80/shbe10/6749779ed0/46757
+http://showmetv.live:80/shbe05/6749779ed0/46757
 #EXTINF:-1,Ar: Al Kass Five HD
-http://showmetv.live:80/shbe10/6749779ed0/46756
+http://showmetv.live:80/shbe05/6749779ed0/46756
 #EXTINF:-1,Ar: Al Kass Six HD
-http://showmetv.live:80/shbe10/6749779ed0/66973
+http://showmetv.live:80/shbe05/6749779ed0/66973
 #EXTINF:-1,Ar: Al Kass Seven HD
-http://showmetv.live:80/shbe10/6749779ed0/66974
+http://showmetv.live:80/shbe05/6749779ed0/66974
 #EXTINF:-1,Ar: Al Kass Eight HD
-http://showmetv.live:80/shbe10/6749779ed0/66975
+http://showmetv.live:80/shbe05/6749779ed0/66975
 #EXTINF:-1,Ar: Al Kass Online
-http://showmetv.live:80/shbe10/6749779ed0/60807
+http://showmetv.live:80/shbe05/6749779ed0/60807
 #EXTINF:-1,Ar: ON Time Sports FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46370
+http://showmetv.live:80/shbe05/6749779ed0/46370
 #EXTINF:-1,Ar: ON Time Sports HD
-http://showmetv.live:80/shbe10/6749779ed0/46755
+http://showmetv.live:80/shbe05/6749779ed0/46755
 #EXTINF:-1,Ar: ON Time Sports SD
-http://showmetv.live:80/shbe10/6749779ed0/61154
+http://showmetv.live:80/shbe05/6749779ed0/61154
 #EXTINF:-1,Ar: ON Time Sports 2FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/46369
+http://showmetv.live:80/shbe05/6749779ed0/46369
 #EXTINF:-1,Ar: ON Time Sports 2HD
-http://showmetv.live:80/shbe10/6749779ed0/46754
+http://showmetv.live:80/shbe05/6749779ed0/46754
 #EXTINF:-1,Ar: ON Time Sports 2SD
-http://showmetv.live:80/shbe10/6749779ed0/61155
+http://showmetv.live:80/shbe05/6749779ed0/61155
 #EXTINF:-1,Ar: ON Time Sports 3FHD (H.265) (50FPS)
-http://showmetv.live:80/shbe10/6749779ed0/53579
+http://showmetv.live:80/shbe05/6749779ed0/53579
 #EXTINF:-1,Ar: ON Time Sports 3HD
-http://showmetv.live:80/shbe10/6749779ed0/53580
+http://showmetv.live:80/shbe05/6749779ed0/53580
 #EXTINF:-1,Ar: ON Time Sports 3SD
-http://showmetv.live:80/shbe10/6749779ed0/61156
+http://showmetv.live:80/shbe05/6749779ed0/61156
 #EXTINF:-1,Ar: Nile Sports
-http://showmetv.live:80/shbe10/6749779ed0/46753
+http://showmetv.live:80/shbe05/6749779ed0/46753
 #EXTINF:-1,Ar: Cookies Kids
-http://showmetv.live:80/shbe10/6749779ed0/62163
+http://showmetv.live:80/shbe05/6749779ed0/62163
 #EXTINF:-1,Ar: Tom And Jerry
-http://showmetv.live:80/shbe10/6749779ed0/58601
+http://showmetv.live:80/shbe05/6749779ed0/58601
 #EXTINF:-1,Ar: Spider Man
-http://showmetv.live:80/shbe10/6749779ed0/58600
+http://showmetv.live:80/shbe05/6749779ed0/58600
 #EXTINF:-1,Ar: Space Toon
-http://showmetv.live:80/shbe10/6749779ed0/46752
+http://showmetv.live:80/shbe05/6749779ed0/46752
 #EXTINF:-1,Ar: Shehab TV
-http://showmetv.live:80/shbe10/6749779ed0/46751
+http://showmetv.live:80/shbe05/6749779ed0/46751
 #EXTINF:-1,Ar: Majid Kids FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46365
+http://showmetv.live:80/shbe05/6749779ed0/46365
 #EXTINF:-1,Ar: Majid Kids HD
-http://showmetv.live:80/shbe10/6749779ed0/46750
+http://showmetv.live:80/shbe05/6749779ed0/46750
 #EXTINF:-1,Ar: Kramesh Kids
-http://showmetv.live:80/shbe10/6749779ed0/46748
+http://showmetv.live:80/shbe05/6749779ed0/46748
 #EXTINF:-1,Ar: Toyor Al Janah
-http://showmetv.live:80/shbe10/6749779ed0/46746
+http://showmetv.live:80/shbe05/6749779ed0/46746
 #EXTINF:-1,Ar: HodHod
-http://showmetv.live:80/shbe10/6749779ed0/46745
+http://showmetv.live:80/shbe05/6749779ed0/46745
 #EXTINF:-1,Ar: Cartoon Network
-http://showmetv.live:80/shbe10/6749779ed0/46744
+http://showmetv.live:80/shbe05/6749779ed0/46744
 #EXTINF:-1,Ar: Taha
-http://showmetv.live:80/shbe10/6749779ed0/46742
+http://showmetv.live:80/shbe05/6749779ed0/46742
 #EXTINF:-1,Ar: Atfal W Mawaheb
-http://showmetv.live:80/shbe10/6749779ed0/46741
+http://showmetv.live:80/shbe05/6749779ed0/46741
 #EXTINF:-1,Ar: Tanna w Ranna
-http://showmetv.live:80/shbe10/6749779ed0/58488
+http://showmetv.live:80/shbe05/6749779ed0/58488
 #EXTINF:-1,Ar: Batoot Kids
-http://showmetv.live:80/shbe10/6749779ed0/58596
+http://showmetv.live:80/shbe05/6749779ed0/58596
 #EXTINF:-1,Ar: Rotana M+ HD
-http://showmetv.live:80/shbe10/6749779ed0/49527
+http://showmetv.live:80/shbe05/6749779ed0/49527
 #EXTINF:-1,Ar: Rotana+ HD
-http://showmetv.live:80/shbe10/6749779ed0/49475
+http://showmetv.live:80/shbe05/6749779ed0/49475
 #EXTINF:-1,Ar: Rotana Aflam + HD
-http://showmetv.live:80/shbe10/6749779ed0/49526
+http://showmetv.live:80/shbe05/6749779ed0/49526
 #EXTINF:-1,Ar: Rotana Kids HD
-http://showmetv.live:80/shbe10/6749779ed0/46740
+http://showmetv.live:80/shbe05/6749779ed0/46740
 #EXTINF:-1,Ar: Rotana Comedy FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46851
+http://showmetv.live:80/shbe05/6749779ed0/46851
 #EXTINF:-1,Ar: Rotana Comedy HD
-http://showmetv.live:80/shbe10/6749779ed0/49525
+http://showmetv.live:80/shbe05/6749779ed0/49525
 #EXTINF:-1,Ar: Rotana Cinema FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46364
+http://showmetv.live:80/shbe05/6749779ed0/46364
 #EXTINF:-1,Ar: Rotana Cinema KSA HD
-http://showmetv.live:80/shbe10/6749779ed0/46739
+http://showmetv.live:80/shbe05/6749779ed0/46739
 #EXTINF:-1,Ar: Rotana Cinema EGY HD
-http://showmetv.live:80/shbe10/6749779ed0/46738
+http://showmetv.live:80/shbe05/6749779ed0/46738
 #EXTINF:-1,Ar: Rotana Classic FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46363
+http://showmetv.live:80/shbe05/6749779ed0/46363
 #EXTINF:-1,Ar: Rotana Classic HD
-http://showmetv.live:80/shbe10/6749779ed0/46737
+http://showmetv.live:80/shbe05/6749779ed0/46737
 #EXTINF:-1,Ar: Rotana Khalijeya FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46361
+http://showmetv.live:80/shbe05/6749779ed0/46361
 #EXTINF:-1,Ar: Rotana Khalijeya HD
-http://showmetv.live:80/shbe10/6749779ed0/46736
+http://showmetv.live:80/shbe05/6749779ed0/46736
 #EXTINF:-1,Ar: Rotana Music FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46362
+http://showmetv.live:80/shbe05/6749779ed0/46362
 #EXTINF:-1,Ar: Rotana Music HD
-http://showmetv.live:80/shbe10/6749779ed0/46735
+http://showmetv.live:80/shbe05/6749779ed0/46735
 #EXTINF:-1,Ar: Rotana Drama FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46360
+http://showmetv.live:80/shbe05/6749779ed0/46360
 #EXTINF:-1,Ar: Rotana Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/46734
+http://showmetv.live:80/shbe05/6749779ed0/46734
 #EXTINF:-1,Ar: Rotana Clip
-http://showmetv.live:80/shbe10/6749779ed0/46733
+http://showmetv.live:80/shbe05/6749779ed0/46733
 #EXTINF:-1,Ar: MBC 1
-http://showmetv.live:80/shbe10/6749779ed0/46732
+http://showmetv.live:80/shbe05/6749779ed0/46732
 #EXTINF:-1,Ar: MBC 2
-http://showmetv.live:80/shbe10/6749779ed0/46731
+http://showmetv.live:80/shbe05/6749779ed0/46731
 #EXTINF:-1,Ar: MBC 3
-http://showmetv.live:80/shbe10/6749779ed0/46730
+http://showmetv.live:80/shbe05/6749779ed0/46730
 #EXTINF:-1,Ar: MBC 4
-http://showmetv.live:80/shbe10/6749779ed0/46729
+http://showmetv.live:80/shbe05/6749779ed0/46729
 #EXTINF:-1,Ar: MBC 5
-http://showmetv.live:80/shbe10/6749779ed0/46728
+http://showmetv.live:80/shbe05/6749779ed0/46728
 #EXTINF:-1,Ar: MBC MAX
-http://showmetv.live:80/shbe10/6749779ed0/46727
+http://showmetv.live:80/shbe05/6749779ed0/46727
 #EXTINF:-1,Ar: MBC Action
-http://showmetv.live:80/shbe10/6749779ed0/46726
+http://showmetv.live:80/shbe05/6749779ed0/46726
 #EXTINF:-1,Ar: MBC Bollywood
-http://showmetv.live:80/shbe10/6749779ed0/46725
+http://showmetv.live:80/shbe05/6749779ed0/46725
 #EXTINF:-1,Ar: MBC Drama
-http://showmetv.live:80/shbe10/6749779ed0/46724
+http://showmetv.live:80/shbe05/6749779ed0/46724
 #EXTINF:-1,Ar: MBC Masr
-http://showmetv.live:80/shbe10/6749779ed0/46723
+http://showmetv.live:80/shbe05/6749779ed0/46723
 #EXTINF:-1,Ar: MBC Masr 2
-http://showmetv.live:80/shbe10/6749779ed0/46722
+http://showmetv.live:80/shbe05/6749779ed0/46722
 #EXTINF:-1,Ar: MBC 1 HD
-http://showmetv.live:80/shbe10/6749779ed0/46721
+http://showmetv.live:80/shbe05/6749779ed0/46721
 #EXTINF:-1,Ar: MBC 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/46720
+http://showmetv.live:80/shbe05/6749779ed0/46720
 #EXTINF:-1,Ar: MBC 3 HD
-http://showmetv.live:80/shbe10/6749779ed0/46719
+http://showmetv.live:80/shbe05/6749779ed0/46719
 #EXTINF:-1,Ar: MBC4 HD
-http://showmetv.live:80/shbe10/6749779ed0/46718
+http://showmetv.live:80/shbe05/6749779ed0/46718
 #EXTINF:-1,Ar: MBC5 HD
-http://showmetv.live:80/shbe10/6749779ed0/46717
+http://showmetv.live:80/shbe05/6749779ed0/46717
 #EXTINF:-1,Ar: MBC MAX HD
-http://showmetv.live:80/shbe10/6749779ed0/46711
+http://showmetv.live:80/shbe05/6749779ed0/46711
 #EXTINF:-1,Ar: MBC Action HD
-http://showmetv.live:80/shbe10/6749779ed0/46712
+http://showmetv.live:80/shbe05/6749779ed0/46712
 #EXTINF:-1,Ar: MBC Bollywood HD
-http://showmetv.live:80/shbe10/6749779ed0/46710
+http://showmetv.live:80/shbe05/6749779ed0/46710
 #EXTINF:-1,Ar: MBC Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/46713
+http://showmetv.live:80/shbe05/6749779ed0/46713
 #EXTINF:-1,Ar: MBC Masr HD
-http://showmetv.live:80/shbe10/6749779ed0/46716
+http://showmetv.live:80/shbe05/6749779ed0/46716
 #EXTINF:-1,Ar: MBC Masr 2  HD
-http://showmetv.live:80/shbe10/6749779ed0/46715
+http://showmetv.live:80/shbe05/6749779ed0/46715
 #EXTINF:-1,Ar: MBC Iraq HD
-http://showmetv.live:80/shbe10/6749779ed0/46714
+http://showmetv.live:80/shbe05/6749779ed0/46714
 #EXTINF:-1,Ar: MBC+Drama HD
-http://showmetv.live:80/shbe10/6749779ed0/46709
+http://showmetv.live:80/shbe05/6749779ed0/46709
 #EXTINF:-1,Ar: MBC 1 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67749
+http://showmetv.live:80/shbe05/6749779ed0/67749
 #EXTINF:-1,Ar: MBC 2 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67748
+http://showmetv.live:80/shbe05/6749779ed0/67748
 #EXTINF:-1,Ar: MBC 3 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67747
+http://showmetv.live:80/shbe05/6749779ed0/67747
 #EXTINF:-1,Ar: MBC 4 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67746
+http://showmetv.live:80/shbe05/6749779ed0/67746
 #EXTINF:-1,Ar: MBC Bollywood FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67745
+http://showmetv.live:80/shbe05/6749779ed0/67745
 #EXTINF:-1,Ar: MBC Max FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67744
+http://showmetv.live:80/shbe05/6749779ed0/67744
 #EXTINF:-1,Ar: MBC Action FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67743
+http://showmetv.live:80/shbe05/6749779ed0/67743
 #EXTINF:-1,Ar: MBC Drama FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67742
+http://showmetv.live:80/shbe05/6749779ed0/67742
 #EXTINF:-1,Ar: MBC+ Drama FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67741
+http://showmetv.live:80/shbe05/6749779ed0/67741
 #EXTINF:-1,Ar: MBC Iraq FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/67740
+http://showmetv.live:80/shbe05/6749779ed0/67740
 #EXTINF:-1,Ar: Al Jazeera Documentary FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/56167
+http://showmetv.live:80/shbe05/6749779ed0/56167
 #EXTINF:-1,Ar: Al Jazeera Documentary HD
-http://showmetv.live:80/shbe10/6749779ed0/56166
+http://showmetv.live:80/shbe05/6749779ed0/56166
 #EXTINF:-1,Ar: AD Nat Geo FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46358
+http://showmetv.live:80/shbe05/6749779ed0/46358
 #EXTINF:-1,Ar: AD Nat Geo HD
-http://showmetv.live:80/shbe10/6749779ed0/46707
+http://showmetv.live:80/shbe05/6749779ed0/46707
 #EXTINF:-1,Ar: Zee Aflam
-http://showmetv.live:80/shbe10/6749779ed0/46706
+http://showmetv.live:80/shbe05/6749779ed0/46706
 #EXTINF:-1,Ar: Zee Alwan
-http://showmetv.live:80/shbe10/6749779ed0/46705
+http://showmetv.live:80/shbe05/6749779ed0/46705
 #EXTINF:-1,Ar: B4U Aflam
-http://showmetv.live:80/shbe10/6749779ed0/46704
+http://showmetv.live:80/shbe05/6749779ed0/46704
 #EXTINF:-1,Ar: B4U Plus
-http://showmetv.live:80/shbe10/6749779ed0/46703
+http://showmetv.live:80/shbe05/6749779ed0/46703
 #EXTINF:-1,Ar: Ifilm Arabic
-http://showmetv.live:80/shbe10/6749779ed0/57940
+http://showmetv.live:80/shbe05/6749779ed0/57940
 #EXTINF:-1,Ar: Misr Quran Kareem
-http://showmetv.live:80/shbe10/6749779ed0/46702
+http://showmetv.live:80/shbe05/6749779ed0/46702
 #EXTINF:-1,Ar: Al Oula EG FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46355
+http://showmetv.live:80/shbe05/6749779ed0/46355
 #EXTINF:-1,Ar: Al Oula HD
-http://showmetv.live:80/shbe10/6749779ed0/46701
+http://showmetv.live:80/shbe05/6749779ed0/46701
 #EXTINF:-1,Ar: Althanya EG
-http://showmetv.live:80/shbe10/6749779ed0/46700
+http://showmetv.live:80/shbe05/6749779ed0/46700
 #EXTINF:-1,Ar: Al Masriyah FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46329
+http://showmetv.live:80/shbe05/6749779ed0/46329
 #EXTINF:-1,Ar: Al Masriyah
-http://showmetv.live:80/shbe10/6749779ed0/46699
+http://showmetv.live:80/shbe05/6749779ed0/46699
 #EXTINF:-1,Ar: Maspero Zaman
-http://showmetv.live:80/shbe10/6749779ed0/46698
+http://showmetv.live:80/shbe05/6749779ed0/46698
 #EXTINF:-1,Ar: DMC FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46356
+http://showmetv.live:80/shbe05/6749779ed0/46356
 #EXTINF:-1,Ar: DMC HD
-http://showmetv.live:80/shbe10/6749779ed0/46697
+http://showmetv.live:80/shbe05/6749779ed0/46697
 #EXTINF:-1,Ar: DMC DRAMA
-http://showmetv.live:80/shbe10/6749779ed0/46696
+http://showmetv.live:80/shbe05/6749779ed0/46696
 #EXTINF:-1,Ar: CBC
-http://showmetv.live:80/shbe10/6749779ed0/46695
+http://showmetv.live:80/shbe05/6749779ed0/46695
 #EXTINF:-1,Ar: CBC Extra News HD
-http://showmetv.live:80/shbe10/6749779ed0/46694
+http://showmetv.live:80/shbe05/6749779ed0/46694
 #EXTINF:-1,Ar: CBC Drama
-http://showmetv.live:80/shbe10/6749779ed0/46693
+http://showmetv.live:80/shbe05/6749779ed0/46693
 #EXTINF:-1,Ar: CBC Sofra
-http://showmetv.live:80/shbe10/6749779ed0/46692
+http://showmetv.live:80/shbe05/6749779ed0/46692
 #EXTINF:-1,Ar: ON E FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46357
+http://showmetv.live:80/shbe05/6749779ed0/46357
 #EXTINF:-1,Ar: ON E HD
-http://showmetv.live:80/shbe10/6749779ed0/46691
+http://showmetv.live:80/shbe05/6749779ed0/46691
 #EXTINF:-1,Ar: ON Drama
-http://showmetv.live:80/shbe10/6749779ed0/46690
+http://showmetv.live:80/shbe05/6749779ed0/46690
 #EXTINF:-1,Ar: Al Ahly FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46328
+http://showmetv.live:80/shbe05/6749779ed0/46328
 #EXTINF:-1,Ar: Al Ahly HD
-http://showmetv.live:80/shbe10/6749779ed0/46689
+http://showmetv.live:80/shbe05/6749779ed0/46689
 #EXTINF:-1,Ar: Zamalik TV
-http://showmetv.live:80/shbe10/6749779ed0/46688
+http://showmetv.live:80/shbe05/6749779ed0/46688
 #EXTINF:-1,Ar: Al Hayat FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46354
+http://showmetv.live:80/shbe05/6749779ed0/46354
 #EXTINF:-1,Ar: Al Hayat HD
-http://showmetv.live:80/shbe10/6749779ed0/46687
+http://showmetv.live:80/shbe05/6749779ed0/46687
 #EXTINF:-1,Ar: Al Hayat Drama
-http://showmetv.live:80/shbe10/6749779ed0/46686
+http://showmetv.live:80/shbe05/6749779ed0/46686
 #EXTINF:-1,Ar: Al Kahera Wal Nas
-http://showmetv.live:80/shbe10/6749779ed0/46685
+http://showmetv.live:80/shbe05/6749779ed0/46685
 #EXTINF:-1,Ar: Al Kahera Wal Nas 2
-http://showmetv.live:80/shbe10/6749779ed0/46684
+http://showmetv.live:80/shbe05/6749779ed0/46684
 #EXTINF:-1,Ar: Sada El Balad
-http://showmetv.live:80/shbe10/6749779ed0/46669
+http://showmetv.live:80/shbe05/6749779ed0/46669
 #EXTINF:-1,Ar: Sada ALbalad 2
-http://showmetv.live:80/shbe10/6749779ed0/46668
+http://showmetv.live:80/shbe05/6749779ed0/46668
 #EXTINF:-1,Ar: Sada El Balad Drama
-http://showmetv.live:80/shbe10/6749779ed0/46667
+http://showmetv.live:80/shbe05/6749779ed0/46667
 #EXTINF:-1,Ar: Mehwer FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/59622
+http://showmetv.live:80/shbe05/6749779ed0/59622
 #EXTINF:-1,Ar: Mehwar HD
-http://showmetv.live:80/shbe10/6749779ed0/46683
+http://showmetv.live:80/shbe05/6749779ed0/46683
 #EXTINF:-1,Ar: Ten
-http://showmetv.live:80/shbe10/6749779ed0/46681
+http://showmetv.live:80/shbe05/6749779ed0/46681
 #EXTINF:-1,Ar: Al-Nahar One
-http://showmetv.live:80/shbe10/6749779ed0/46680
+http://showmetv.live:80/shbe05/6749779ed0/46680
 #EXTINF:-1,Ar: Al-Nahar Drama
-http://showmetv.live:80/shbe10/6749779ed0/46679
+http://showmetv.live:80/shbe05/6749779ed0/46679
 #EXTINF:-1,Ar: AL Shams TV
-http://showmetv.live:80/shbe10/6749779ed0/46608
+http://showmetv.live:80/shbe05/6749779ed0/46608
 #EXTINF:-1,Ar: Al Hadath Alyoum
-http://showmetv.live:80/shbe10/6749779ed0/46609
+http://showmetv.live:80/shbe05/6749779ed0/46609
 #EXTINF:-1,Ar: Etc
-http://showmetv.live:80/shbe10/6749779ed0/58603
+http://showmetv.live:80/shbe05/6749779ed0/58603
 #EXTINF:-1,Ar: AL 3asema
-http://showmetv.live:80/shbe10/6749779ed0/62158
+http://showmetv.live:80/shbe05/6749779ed0/62158
 #EXTINF:-1,Ar: Nile TV
-http://showmetv.live:80/shbe10/6749779ed0/58440
+http://showmetv.live:80/shbe05/6749779ed0/58440
 #EXTINF:-1,Ar: Nile Family
-http://showmetv.live:80/shbe10/6749779ed0/46675
+http://showmetv.live:80/shbe05/6749779ed0/46675
 #EXTINF:-1,Ar: Nile Life
-http://showmetv.live:80/shbe10/6749779ed0/46674
+http://showmetv.live:80/shbe05/6749779ed0/46674
 #EXTINF:-1,Ar: Nile Cinema
-http://showmetv.live:80/shbe10/6749779ed0/46673
+http://showmetv.live:80/shbe05/6749779ed0/46673
 #EXTINF:-1,Ar: Nile Comedy
-http://showmetv.live:80/shbe10/6749779ed0/46672
+http://showmetv.live:80/shbe05/6749779ed0/46672
 #EXTINF:-1,Ar: Nile Culture
-http://showmetv.live:80/shbe10/6749779ed0/46671
+http://showmetv.live:80/shbe05/6749779ed0/46671
 #EXTINF:-1,Ar: Nile Drama
-http://showmetv.live:80/shbe10/6749779ed0/46670
+http://showmetv.live:80/shbe05/6749779ed0/46670
 #EXTINF:-1,Ar: Apple Aflam
-http://showmetv.live:80/shbe10/6749779ed0/46666
+http://showmetv.live:80/shbe05/6749779ed0/46666
 #EXTINF:-1,Ar: Apple Alyoum
-http://showmetv.live:80/shbe10/6749779ed0/46665
+http://showmetv.live:80/shbe05/6749779ed0/46665
 #EXTINF:-1,Ar: Apple Comedy
-http://showmetv.live:80/shbe10/6749779ed0/46664
+http://showmetv.live:80/shbe05/6749779ed0/46664
 #EXTINF:-1,Ar: Apple Cinema
-http://showmetv.live:80/shbe10/6749779ed0/46663
+http://showmetv.live:80/shbe05/6749779ed0/46663
 #EXTINF:-1,Ar: Apple Musalslat
-http://showmetv.live:80/shbe10/6749779ed0/46662
+http://showmetv.live:80/shbe05/6749779ed0/46662
 #EXTINF:-1,Ar: Apple Hekayat
-http://showmetv.live:80/shbe10/6749779ed0/46661
+http://showmetv.live:80/shbe05/6749779ed0/46661
 #EXTINF:-1,Ar: Movies
-http://showmetv.live:80/shbe10/6749779ed0/59621
+http://showmetv.live:80/shbe05/6749779ed0/59621
 #EXTINF:-1,Ar: Box Movies
-http://showmetv.live:80/shbe10/6749779ed0/58466
+http://showmetv.live:80/shbe05/6749779ed0/58466
 #EXTINF:-1,Ar: Mix Hollywood
-http://showmetv.live:80/shbe10/6749779ed0/46656
+http://showmetv.live:80/shbe05/6749779ed0/46656
 #EXTINF:-1,Ar: Mix One
-http://showmetv.live:80/shbe10/6749779ed0/70786
+http://showmetv.live:80/shbe05/6749779ed0/70786
 #EXTINF:-1,Ar: Mix Bel Araby
-http://showmetv.live:80/shbe10/6749779ed0/62089
+http://showmetv.live:80/shbe05/6749779ed0/62089
 #EXTINF:-1,Ar: HollyWood Horror
-http://showmetv.live:80/shbe10/6749779ed0/58605
+http://showmetv.live:80/shbe05/6749779ed0/58605
 #EXTINF:-1,Ar: Njoom HollyWood
-http://showmetv.live:80/shbe10/6749779ed0/58604
+http://showmetv.live:80/shbe05/6749779ed0/58604
 #EXTINF:-1,Ar: Cinema Pro
-http://showmetv.live:80/shbe10/6749779ed0/46631
+http://showmetv.live:80/shbe05/6749779ed0/46631
 #EXTINF:-1,Ar: Oscar TV
-http://showmetv.live:80/shbe10/6749779ed0/47604
+http://showmetv.live:80/shbe05/6749779ed0/47604
 #EXTINF:-1,Ar: PNC Drama
-http://showmetv.live:80/shbe10/6749779ed0/46648
+http://showmetv.live:80/shbe05/6749779ed0/46648
 #EXTINF:-1,Ar: PNC Drama 2
-http://showmetv.live:80/shbe10/6749779ed0/46647
+http://showmetv.live:80/shbe05/6749779ed0/46647
 #EXTINF:-1,Ar: PNC Film
-http://showmetv.live:80/shbe10/6749779ed0/46646
+http://showmetv.live:80/shbe05/6749779ed0/46646
 #EXTINF:-1,Ar: PNC Food
-http://showmetv.live:80/shbe10/6749779ed0/46645
+http://showmetv.live:80/shbe05/6749779ed0/46645
 #EXTINF:-1,Ar: PNC Today
-http://showmetv.live:80/shbe10/6749779ed0/46644
+http://showmetv.live:80/shbe05/6749779ed0/46644
 #EXTINF:-1,Ar: Zilzal Classic
-http://showmetv.live:80/shbe10/6749779ed0/46632
+http://showmetv.live:80/shbe05/6749779ed0/46632
 #EXTINF:-1,Ar: ORPIT Hekayat
-http://showmetv.live:80/shbe10/6749779ed0/46618
+http://showmetv.live:80/shbe05/6749779ed0/46618
 #EXTINF:-1,Ar: ORPIT AL Youm
-http://showmetv.live:80/shbe10/6749779ed0/46617
+http://showmetv.live:80/shbe05/6749779ed0/46617
 #EXTINF:-1,Ar: ORPIT Movies
-http://showmetv.live:80/shbe10/6749779ed0/46616
+http://showmetv.live:80/shbe05/6749779ed0/46616
 #EXTINF:-1,Ar: ORPIT Cinema
-http://showmetv.live:80/shbe10/6749779ed0/46615
+http://showmetv.live:80/shbe05/6749779ed0/46615
 #EXTINF:-1,Ar: ORPIT Drama
-http://showmetv.live:80/shbe10/6749779ed0/46614
+http://showmetv.live:80/shbe05/6749779ed0/46614
 #EXTINF:-1,Ar: Tok Tok Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62156
+http://showmetv.live:80/shbe05/6749779ed0/62156
 #EXTINF:-1,Ar: Tok Tok Cima
-http://showmetv.live:80/shbe10/6749779ed0/62155
+http://showmetv.live:80/shbe05/6749779ed0/62155
 #EXTINF:-1,Ar: Cinema 1
-http://showmetv.live:80/shbe10/6749779ed0/62154
+http://showmetv.live:80/shbe05/6749779ed0/62154
 #EXTINF:-1,Ar: Cinema 2
-http://showmetv.live:80/shbe10/6749779ed0/62153
+http://showmetv.live:80/shbe05/6749779ed0/62153
 #EXTINF:-1,Ar: Star Cinema 1
-http://showmetv.live:80/shbe10/6749779ed0/62152
+http://showmetv.live:80/shbe05/6749779ed0/62152
 #EXTINF:-1,Ar: Star Cinema 2
-http://showmetv.live:80/shbe10/6749779ed0/62151
+http://showmetv.live:80/shbe05/6749779ed0/62151
 #EXTINF:-1,Ar: Family Drama
-http://showmetv.live:80/shbe10/6749779ed0/62150
+http://showmetv.live:80/shbe05/6749779ed0/62150
 #EXTINF:-1,Ar: Family Hikayat
-http://showmetv.live:80/shbe10/6749779ed0/62149
+http://showmetv.live:80/shbe05/6749779ed0/62149
 #EXTINF:-1,Ar: Family Musalslat
-http://showmetv.live:80/shbe10/6749779ed0/62148
+http://showmetv.live:80/shbe05/6749779ed0/62148
 #EXTINF:-1,Ar: Family Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62147
+http://showmetv.live:80/shbe05/6749779ed0/62147
 #EXTINF:-1,Ar: AL Sa3a Al youm
-http://showmetv.live:80/shbe10/6749779ed0/62146
+http://showmetv.live:80/shbe05/6749779ed0/62146
 #EXTINF:-1,Ar: AL Sa3aa Comedy
-http://showmetv.live:80/shbe10/6749779ed0/62145
+http://showmetv.live:80/shbe05/6749779ed0/62145
 #EXTINF:-1,Ar: AL Sa3aa Musalsalat
-http://showmetv.live:80/shbe10/6749779ed0/62144
+http://showmetv.live:80/shbe05/6749779ed0/62144
 #EXTINF:-1,Ar: AL Sa3aa Drama
-http://showmetv.live:80/shbe10/6749779ed0/62143
+http://showmetv.live:80/shbe05/6749779ed0/62143
 #EXTINF:-1,Ar: AL Sa3aa Classic
-http://showmetv.live:80/shbe10/6749779ed0/62142
+http://showmetv.live:80/shbe05/6749779ed0/62142
 #EXTINF:-1,Ar: AL Sa3aa Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62141
+http://showmetv.live:80/shbe05/6749779ed0/62141
 #EXTINF:-1,Ar: AL Shasha Musalslat
-http://showmetv.live:80/shbe10/6749779ed0/62140
+http://showmetv.live:80/shbe05/6749779ed0/62140
 #EXTINF:-1,Ar: AL Shasha Classic
-http://showmetv.live:80/shbe10/6749779ed0/62139
+http://showmetv.live:80/shbe05/6749779ed0/62139
 #EXTINF:-1,Ar: AL Shasha Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62138
+http://showmetv.live:80/shbe05/6749779ed0/62138
 #EXTINF:-1,Ar: AL Shasha Film
-http://showmetv.live:80/shbe10/6749779ed0/62137
+http://showmetv.live:80/shbe05/6749779ed0/62137
 #EXTINF:-1,Ar: Zilzal Al Youm
-http://showmetv.live:80/shbe10/6749779ed0/62136
+http://showmetv.live:80/shbe05/6749779ed0/62136
 #EXTINF:-1,Ar: Zilzal Musalsalat
-http://showmetv.live:80/shbe10/6749779ed0/62135
+http://showmetv.live:80/shbe05/6749779ed0/62135
 #EXTINF:-1,Ar: Zilzal Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62134
+http://showmetv.live:80/shbe05/6749779ed0/62134
 #EXTINF:-1,Ar: 7besha
-http://showmetv.live:80/shbe10/6749779ed0/62133
+http://showmetv.live:80/shbe05/6749779ed0/62133
 #EXTINF:-1,Ar: 7besha  Action
-http://showmetv.live:80/shbe10/6749779ed0/62132
+http://showmetv.live:80/shbe05/6749779ed0/62132
 #EXTINF:-1,Ar: M Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62131
+http://showmetv.live:80/shbe05/6749779ed0/62131
 #EXTINF:-1,Ar: Cima Tube
-http://showmetv.live:80/shbe10/6749779ed0/62130
+http://showmetv.live:80/shbe05/6749779ed0/62130
 #EXTINF:-1,Ar: Cinema Tube
-http://showmetv.live:80/shbe10/6749779ed0/62129
+http://showmetv.live:80/shbe05/6749779ed0/62129
 #EXTINF:-1,Ar: Sky Action
-http://showmetv.live:80/shbe10/6749779ed0/62128
+http://showmetv.live:80/shbe05/6749779ed0/62128
 #EXTINF:-1,Ar: Mosalsalat Tube
-http://showmetv.live:80/shbe10/6749779ed0/62127
+http://showmetv.live:80/shbe05/6749779ed0/62127
 #EXTINF:-1,Ar: Dolly Musalsalat
-http://showmetv.live:80/shbe10/6749779ed0/62126
+http://showmetv.live:80/shbe05/6749779ed0/62126
 #EXTINF:-1,Ar: Dolly Drama
-http://showmetv.live:80/shbe10/6749779ed0/62125
+http://showmetv.live:80/shbe05/6749779ed0/62125
 #EXTINF:-1,Ar: EgyBest Comedy
-http://showmetv.live:80/shbe10/6749779ed0/62124
+http://showmetv.live:80/shbe05/6749779ed0/62124
 #EXTINF:-1,Ar: EgyBest Drama
-http://showmetv.live:80/shbe10/6749779ed0/62123
+http://showmetv.live:80/shbe05/6749779ed0/62123
 #EXTINF:-1,Ar: EgyBest Today
-http://showmetv.live:80/shbe10/6749779ed0/62122
+http://showmetv.live:80/shbe05/6749779ed0/62122
 #EXTINF:-1,Ar: EgyBest Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62121
+http://showmetv.live:80/shbe05/6749779ed0/62121
 #EXTINF:-1,Ar: EgyBest Cima
-http://showmetv.live:80/shbe10/6749779ed0/62120
+http://showmetv.live:80/shbe05/6749779ed0/62120
 #EXTINF:-1,Ar: EgyBest Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62119
+http://showmetv.live:80/shbe05/6749779ed0/62119
 #EXTINF:-1,Ar: Otlob Today
-http://showmetv.live:80/shbe10/6749779ed0/62118
+http://showmetv.live:80/shbe05/6749779ed0/62118
 #EXTINF:-1,Ar: Otlob Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62117
+http://showmetv.live:80/shbe05/6749779ed0/62117
 #EXTINF:-1,Ar: Otlob Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62116
+http://showmetv.live:80/shbe05/6749779ed0/62116
 #EXTINF:-1,Ar: Otlob Drama
-http://showmetv.live:80/shbe10/6749779ed0/62115
+http://showmetv.live:80/shbe05/6749779ed0/62115
 #EXTINF:-1,Ar: Otlob Zaman
-http://showmetv.live:80/shbe10/6749779ed0/62114
+http://showmetv.live:80/shbe05/6749779ed0/62114
 #EXTINF:-1,Ar: Otlob Hekayat
-http://showmetv.live:80/shbe10/6749779ed0/62113
+http://showmetv.live:80/shbe05/6749779ed0/62113
 #EXTINF:-1,Ar: Al Yoom Drama
-http://showmetv.live:80/shbe10/6749779ed0/62112
+http://showmetv.live:80/shbe05/6749779ed0/62112
 #EXTINF:-1,Ar: Al Yoom Hekayat
-http://showmetv.live:80/shbe10/6749779ed0/62111
+http://showmetv.live:80/shbe05/6749779ed0/62111
 #EXTINF:-1,Ar; AL Yoom Comedy
-http://showmetv.live:80/shbe10/6749779ed0/62110
+http://showmetv.live:80/shbe05/6749779ed0/62110
 #EXTINF:-1,Ar; AL Yoom Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62109
+http://showmetv.live:80/shbe05/6749779ed0/62109
 #EXTINF:-1,Ar: Al Yoom Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62108
+http://showmetv.live:80/shbe05/6749779ed0/62108
 #EXTINF:-1,Ar: Al Yoom Zaman
-http://showmetv.live:80/shbe10/6749779ed0/62107
+http://showmetv.live:80/shbe05/6749779ed0/62107
 #EXTINF:-1,Ar: 4G Classic
-http://showmetv.live:80/shbe10/6749779ed0/62106
+http://showmetv.live:80/shbe05/6749779ed0/62106
 #EXTINF:-1,Ar: 4G Cima
-http://showmetv.live:80/shbe10/6749779ed0/62105
+http://showmetv.live:80/shbe05/6749779ed0/62105
 #EXTINF:-1,Ar: 4G Drama
-http://showmetv.live:80/shbe10/6749779ed0/62104
+http://showmetv.live:80/shbe05/6749779ed0/62104
 #EXTINF:-1,Ar: 4G Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62103
+http://showmetv.live:80/shbe05/6749779ed0/62103
 #EXTINF:-1,Ar: 4G Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62102
+http://showmetv.live:80/shbe05/6749779ed0/62102
 #EXTINF:-1,Ar: 4G Film
-http://showmetv.live:80/shbe10/6749779ed0/62101
+http://showmetv.live:80/shbe05/6749779ed0/62101
 #EXTINF:-1,Ar: Beirut Al Yoom
-http://showmetv.live:80/shbe10/6749779ed0/62100
+http://showmetv.live:80/shbe05/6749779ed0/62100
 #EXTINF:-1,Ar: Beirut Drama
-http://showmetv.live:80/shbe10/6749779ed0/62099
+http://showmetv.live:80/shbe05/6749779ed0/62099
 #EXTINF:-1,Ar: Beirut Classic
-http://showmetv.live:80/shbe10/6749779ed0/62098
+http://showmetv.live:80/shbe05/6749779ed0/62098
 #EXTINF:-1,Ar: Beirut Cinema
-http://showmetv.live:80/shbe10/6749779ed0/62097
+http://showmetv.live:80/shbe05/6749779ed0/62097
 #EXTINF:-1,Ar: Queen TV
-http://showmetv.live:80/shbe10/6749779ed0/62095
+http://showmetv.live:80/shbe05/6749779ed0/62095
 #EXTINF:-1,Ar: Queen Alwan
-http://showmetv.live:80/shbe10/6749779ed0/62096
+http://showmetv.live:80/shbe05/6749779ed0/62096
 #EXTINF:-1,Ar: Queen Classic
-http://showmetv.live:80/shbe10/6749779ed0/63457
+http://showmetv.live:80/shbe05/6749779ed0/63457
 #EXTINF:-1,Ar: Trend Sha3by
-http://showmetv.live:80/shbe10/6749779ed0/62094
+http://showmetv.live:80/shbe05/6749779ed0/62094
 #EXTINF:-1,Ar: Cima TV
-http://showmetv.live:80/shbe10/6749779ed0/62093
+http://showmetv.live:80/shbe05/6749779ed0/62093
 #EXTINF:-1,Ar: Cima Ali Baba
-http://showmetv.live:80/shbe10/6749779ed0/62092
+http://showmetv.live:80/shbe05/6749779ed0/62092
 #EXTINF:-1,Ar: Top Movies
-http://showmetv.live:80/shbe10/6749779ed0/62091
+http://showmetv.live:80/shbe05/6749779ed0/62091
 #EXTINF:-1,Ar: Sky Hikayat
-http://showmetv.live:80/shbe10/6749779ed0/62090
+http://showmetv.live:80/shbe05/6749779ed0/62090
 #EXTINF:-1,Ar: Belody Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62088
+http://showmetv.live:80/shbe05/6749779ed0/62088
 #EXTINF:-1,Ar: Belody Plus
-http://showmetv.live:80/shbe10/6749779ed0/62087
+http://showmetv.live:80/shbe05/6749779ed0/62087
 #EXTINF:-1,Ar: Melody Drama
-http://showmetv.live:80/shbe10/6749779ed0/62086
+http://showmetv.live:80/shbe05/6749779ed0/62086
 #EXTINF:-1,Ar: Melody Aflam
-http://showmetv.live:80/shbe10/6749779ed0/62085
+http://showmetv.live:80/shbe05/6749779ed0/62085
 #EXTINF:-1,Ar: Drama Alwan
-http://showmetv.live:80/shbe10/6749779ed0/62084
+http://showmetv.live:80/shbe05/6749779ed0/62084
 #EXTINF:-1,Ar: Hekaya Hendy TV
-http://showmetv.live:80/shbe10/6749779ed0/62083
+http://showmetv.live:80/shbe05/6749779ed0/62083
 #EXTINF:-1,Ar: Sowt AL Arab TV
-http://showmetv.live:80/shbe10/6749779ed0/62082
+http://showmetv.live:80/shbe05/6749779ed0/62082
 #EXTINF:-1,Ar: Mdeeh
-http://showmetv.live:80/shbe10/6749779ed0/62157
+http://showmetv.live:80/shbe05/6749779ed0/62157
 #EXTINF:-1,Ar: Sha3beyat
-http://showmetv.live:80/shbe10/6749779ed0/62081
+http://showmetv.live:80/shbe05/6749779ed0/62081
 #EXTINF:-1,Ar: EL Moleed
-http://showmetv.live:80/shbe10/6749779ed0/62080
+http://showmetv.live:80/shbe05/6749779ed0/62080
 #EXTINF:-1,Ar: Mazzika
-http://showmetv.live:80/shbe10/6749779ed0/62079
+http://showmetv.live:80/shbe05/6749779ed0/62079
 #EXTINF:-1,Ar: Nogoum FM
-http://showmetv.live:80/shbe10/6749779ed0/49992
+http://showmetv.live:80/shbe05/6749779ed0/49992
 #EXTINF:-1,Ar: Radio 9090
-http://showmetv.live:80/shbe10/6749779ed0/67601
+http://showmetv.live:80/shbe05/6749779ed0/67601
 #EXTINF:-1,Ar: Shoof Mix
-http://showmetv.live:80/shbe10/6749779ed0/63468
+http://showmetv.live:80/shbe05/6749779ed0/63468
 #EXTINF:-1,Ar: Shoof Cinema
-http://showmetv.live:80/shbe10/6749779ed0/63467
+http://showmetv.live:80/shbe05/6749779ed0/63467
 #EXTINF:-1,Ar: Shoof Aflam
-http://showmetv.live:80/shbe10/6749779ed0/63466
+http://showmetv.live:80/shbe05/6749779ed0/63466
 #EXTINF:-1,Ar: Shoof Drama
-http://showmetv.live:80/shbe10/6749779ed0/63465
+http://showmetv.live:80/shbe05/6749779ed0/63465
 #EXTINF:-1,Ar: Top Musalsalat
-http://showmetv.live:80/shbe10/6749779ed0/63464
+http://showmetv.live:80/shbe05/6749779ed0/63464
 #EXTINF:-1,Ar: Top Khalijia
-http://showmetv.live:80/shbe10/6749779ed0/63463
+http://showmetv.live:80/shbe05/6749779ed0/63463
 #EXTINF:-1,Ar: Top Drama
-http://showmetv.live:80/shbe10/6749779ed0/63462
+http://showmetv.live:80/shbe05/6749779ed0/63462
 #EXTINF:-1,Ar: Top Comedy
-http://showmetv.live:80/shbe10/6749779ed0/63461
+http://showmetv.live:80/shbe05/6749779ed0/63461
 #EXTINF:-1,Ar: Top Classic
-http://showmetv.live:80/shbe10/6749779ed0/63460
+http://showmetv.live:80/shbe05/6749779ed0/63460
 #EXTINF:-1,Ar: Top Cinema
-http://showmetv.live:80/shbe10/6749779ed0/63459
+http://showmetv.live:80/shbe05/6749779ed0/63459
 #EXTINF:-1,Ar: Top Action
-http://showmetv.live:80/shbe10/6749779ed0/63458
+http://showmetv.live:80/shbe05/6749779ed0/63458
 #EXTINF:-1,Ar: AL Saied
-http://showmetv.live:80/shbe10/6749779ed0/69264
+http://showmetv.live:80/shbe05/6749779ed0/69264
 #EXTINF:-1,Ar: AL Kanal
-http://showmetv.live:80/shbe10/6749779ed0/69263
+http://showmetv.live:80/shbe05/6749779ed0/69263
 #EXTINF:-1,Ar: Al Kahera
-http://showmetv.live:80/shbe10/6749779ed0/69262
+http://showmetv.live:80/shbe05/6749779ed0/69262
 #EXTINF:-1,Ar: Al Delta
-http://showmetv.live:80/shbe10/6749779ed0/69261
+http://showmetv.live:80/shbe05/6749779ed0/69261
 #EXTINF:-1,Ar: AL Askandria
-http://showmetv.live:80/shbe10/6749779ed0/69260
+http://showmetv.live:80/shbe05/6749779ed0/69260
 #EXTINF:-1,Ar: Saudia TV FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46353
+http://showmetv.live:80/shbe05/6749779ed0/46353
 #EXTINF:-1,Ar: Saudi TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46598
+http://showmetv.live:80/shbe05/6749779ed0/46598
 #EXTINF:-1,Ar: SBC FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46351
+http://showmetv.live:80/shbe05/6749779ed0/46351
 #EXTINF:-1,Ar: SBC HD
-http://showmetv.live:80/shbe10/6749779ed0/46597
+http://showmetv.live:80/shbe05/6749779ed0/46597
 #EXTINF:-1,Ar: Al Ekhbaria HD FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46391
+http://showmetv.live:80/shbe05/6749779ed0/46391
 #EXTINF:-1,Ar: Saudia El Ekhbaria HD
-http://showmetv.live:80/shbe10/6749779ed0/46596
+http://showmetv.live:80/shbe05/6749779ed0/46596
 #EXTINF:-1,Ar: AL Waqie TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46595
+http://showmetv.live:80/shbe05/6749779ed0/46595
 #EXTINF:-1,Ar: Saudi 24 HD
-http://showmetv.live:80/shbe10/6749779ed0/46594
+http://showmetv.live:80/shbe05/6749779ed0/46594
 #EXTINF:-1,Ar: Saudia Sport 24 HD
-http://showmetv.live:80/shbe10/6749779ed0/46593
+http://showmetv.live:80/shbe05/6749779ed0/46593
 #EXTINF:-1,Ar: ALSahraa
-http://showmetv.live:80/shbe10/6749779ed0/46592
+http://showmetv.live:80/shbe05/6749779ed0/46592
 #EXTINF:-1,Ar: AL Saha
-http://showmetv.live:80/shbe10/6749779ed0/46591
+http://showmetv.live:80/shbe05/6749779ed0/46591
 #EXTINF:-1,Ar: Saudi Zekrayat FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46352
+http://showmetv.live:80/shbe05/6749779ed0/46352
 #EXTINF:-1,Ar: Saudi Zekrayat HD
-http://showmetv.live:80/shbe10/6749779ed0/46590
+http://showmetv.live:80/shbe05/6749779ed0/46590
 #EXTINF:-1,Ar: Drama Al Badawya HD
-http://showmetv.live:80/shbe10/6749779ed0/46589
+http://showmetv.live:80/shbe05/6749779ed0/46589
 #EXTINF:-1,Ar: W TV HD
-http://showmetv.live:80/shbe10/6749779ed0/71345
+http://showmetv.live:80/shbe05/6749779ed0/71345
 #EXTINF:-1,Ar: Al Emarat TV FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46345
+http://showmetv.live:80/shbe05/6749779ed0/46345
 #EXTINF:-1,Ar: AD AL Emarat TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46588
+http://showmetv.live:80/shbe05/6749779ed0/46588
 #EXTINF:-1,Ar: Abu Dhabi FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46349
+http://showmetv.live:80/shbe05/6749779ed0/46349
 #EXTINF:-1,Ar: Abu Dhabi TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46587
+http://showmetv.live:80/shbe05/6749779ed0/46587
 #EXTINF:-1,Ar: Dubai TV FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46348
+http://showmetv.live:80/shbe05/6749779ed0/46348
 #EXTINF:-1,Ar: Dubia TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46586
+http://showmetv.live:80/shbe05/6749779ed0/46586
 #EXTINF:-1,Ar: Dubai Zaman
-http://showmetv.live:80/shbe10/6749779ed0/46585
+http://showmetv.live:80/shbe05/6749779ed0/46585
 #EXTINF:-1,Ar: Sama Dubai FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46347
+http://showmetv.live:80/shbe05/6749779ed0/46347
 #EXTINF:-1,Ar: Sama Dubai HD
-http://showmetv.live:80/shbe10/6749779ed0/46584
+http://showmetv.live:80/shbe05/6749779ed0/46584
 #EXTINF:-1,Ar: Dubai One FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46344
+http://showmetv.live:80/shbe05/6749779ed0/46344
 #EXTINF:-1,Ar: Dubai One HD
-http://showmetv.live:80/shbe10/6749779ed0/46582
+http://showmetv.live:80/shbe05/6749779ed0/46582
 #EXTINF:-1,Ar: Noor Dubai TV
-http://showmetv.live:80/shbe10/6749779ed0/46581
+http://showmetv.live:80/shbe05/6749779ed0/46581
 #EXTINF:-1,Ar: Fujaira FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46346
+http://showmetv.live:80/shbe05/6749779ed0/46346
 #EXTINF:-1,Ar: Fujairah TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58598
+http://showmetv.live:80/shbe05/6749779ed0/58598
 #EXTINF:-1,Ar: AL Dafra FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46343
+http://showmetv.live:80/shbe05/6749779ed0/46343
 #EXTINF:-1,Ar: AL Dafra HD
-http://showmetv.live:80/shbe10/6749779ed0/58489
+http://showmetv.live:80/shbe05/6749779ed0/58489
 #EXTINF:-1,Ar: Baynounah TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58597
+http://showmetv.live:80/shbe05/6749779ed0/58597
 #EXTINF:-1,Ar: RBC HD
-http://showmetv.live:80/shbe10/6749779ed0/58599
+http://showmetv.live:80/shbe05/6749779ed0/58599
 #EXTINF:-1,Ar: Alaan TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58457
+http://showmetv.live:80/shbe05/6749779ed0/58457
 #EXTINF:-1,Ar: Ajman HD
-http://showmetv.live:80/shbe10/6749779ed0/58443
+http://showmetv.live:80/shbe05/6749779ed0/58443
 #EXTINF:-1,Ar: Sharjah TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58458
+http://showmetv.live:80/shbe05/6749779ed0/58458
 #EXTINF:-1,Ar: Sharjah 2 TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58460
+http://showmetv.live:80/shbe05/6749779ed0/58460
 #EXTINF:-1,Ar: Sharjah Sports TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58459
+http://showmetv.live:80/shbe05/6749779ed0/58459
 #EXTINF:-1,Ar: Sharqiya Kalbatv TV HD
-http://showmetv.live:80/shbe10/6749779ed0/58461
+http://showmetv.live:80/shbe05/6749779ed0/58461
 #EXTINF:-1,Ar: Al Wousta TV
-http://showmetv.live:80/shbe10/6749779ed0/58462
+http://showmetv.live:80/shbe05/6749779ed0/58462
 #EXTINF:-1,Ar: Dubai Sport 1 HD
-http://showmetv.live:80/shbe10/6749779ed0/46580
+http://showmetv.live:80/shbe05/6749779ed0/46580
 #EXTINF:-1,Ar: Dubai Sport 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/46579
+http://showmetv.live:80/shbe05/6749779ed0/46579
 #EXTINF:-1,Ar: Dubai Sport 3 HD
-http://showmetv.live:80/shbe10/6749779ed0/46578
+http://showmetv.live:80/shbe05/6749779ed0/46578
 #EXTINF:-1,Ar: Dubai Racing HD
-http://showmetv.live:80/shbe10/6749779ed0/46577
+http://showmetv.live:80/shbe05/6749779ed0/46577
 #EXTINF:-1,Ar: Dubai Racing 1 HD
-http://showmetv.live:80/shbe10/6749779ed0/46575
+http://showmetv.live:80/shbe05/6749779ed0/46575
 #EXTINF:-1,Ar: Dubai Racing 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/46574
+http://showmetv.live:80/shbe05/6749779ed0/46574
 #EXTINF:-1,Ar: Dubai Racing 3 HD
-http://showmetv.live:80/shbe10/6749779ed0/46573
+http://showmetv.live:80/shbe05/6749779ed0/46573
 #EXTINF:-1,Ar: Al Hurra HD
-http://showmetv.live:80/shbe10/6749779ed0/46572
+http://showmetv.live:80/shbe05/6749779ed0/46572
 #EXTINF:-1,Ar: AL Hurra Iraq HD
-http://showmetv.live:80/shbe10/6749779ed0/46571
+http://showmetv.live:80/shbe05/6749779ed0/46571
 #EXTINF:-1,Ar: Iraqia News HD
-http://showmetv.live:80/shbe10/6749779ed0/46570
+http://showmetv.live:80/shbe05/6749779ed0/46570
 #EXTINF:-1,Ar: Al Shabab Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/54324
+http://showmetv.live:80/shbe05/6749779ed0/54324
 #EXTINF:-1,Ar: Al Iraqia Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/46569
+http://showmetv.live:80/shbe05/6749779ed0/46569
 #EXTINF:-1,Ar: Al-Aqila TV
-http://showmetv.live:80/shbe10/6749779ed0/46568
+http://showmetv.live:80/shbe05/6749779ed0/46568
 #EXTINF:-1,Ar: Alsharqiya News
-http://showmetv.live:80/shbe10/6749779ed0/46567
+http://showmetv.live:80/shbe05/6749779ed0/46567
 #EXTINF:-1,Ar: Al Sumaria
-http://showmetv.live:80/shbe10/6749779ed0/46566
+http://showmetv.live:80/shbe05/6749779ed0/46566
 #EXTINF:-1,Ar: Al Iraqia HD
-http://showmetv.live:80/shbe10/6749779ed0/46565
+http://showmetv.live:80/shbe05/6749779ed0/46565
 #EXTINF:-1,Ar: Inews TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46564
+http://showmetv.live:80/shbe05/6749779ed0/46564
 #EXTINF:-1,Ar: Iraq News FHD
-http://showmetv.live:80/shbe10/6749779ed0/46563
+http://showmetv.live:80/shbe05/6749779ed0/46563
 #EXTINF:-1,Ar: Al Rasheed TV
-http://showmetv.live:80/shbe10/6749779ed0/46562
+http://showmetv.live:80/shbe05/6749779ed0/46562
 #EXTINF:-1,Ar: Hona Baghdad
-http://showmetv.live:80/shbe10/6749779ed0/46561
+http://showmetv.live:80/shbe05/6749779ed0/46561
 #EXTINF:-1,Ar: Al Rafidain TV
-http://showmetv.live:80/shbe10/6749779ed0/46560
+http://showmetv.live:80/shbe05/6749779ed0/46560
 #EXTINF:-1,Ar: Afaq TV
-http://showmetv.live:80/shbe10/6749779ed0/46559
+http://showmetv.live:80/shbe05/6749779ed0/46559
 #EXTINF:-1,Ar: Samarra TV
-http://showmetv.live:80/shbe10/6749779ed0/46557
+http://showmetv.live:80/shbe05/6749779ed0/46557
 #EXTINF:-1,Ar: Dijlah TV
-http://showmetv.live:80/shbe10/6749779ed0/46556
+http://showmetv.live:80/shbe05/6749779ed0/46556
 #EXTINF:-1,Ar: Dijlah Tarab
-http://showmetv.live:80/shbe10/6749779ed0/46558
+http://showmetv.live:80/shbe05/6749779ed0/46558
 #EXTINF:-1,Ar: Al wilayah TV
-http://showmetv.live:80/shbe10/6749779ed0/46555
+http://showmetv.live:80/shbe05/6749779ed0/46555
 #EXTINF:-1,Ar: AL-Anbar
-http://showmetv.live:80/shbe10/6749779ed0/46554
+http://showmetv.live:80/shbe05/6749779ed0/46554
 #EXTINF:-1,Ar: Al Ebaa TV
-http://showmetv.live:80/shbe10/6749779ed0/46553
+http://showmetv.live:80/shbe05/6749779ed0/46553
 #EXTINF:-1,Ar: Salahaden Tv
-http://showmetv.live:80/shbe10/6749779ed0/46552
+http://showmetv.live:80/shbe05/6749779ed0/46552
 #EXTINF:-1,Ar: Al-Shaaer TV
-http://showmetv.live:80/shbe10/6749779ed0/46551
+http://showmetv.live:80/shbe05/6749779ed0/46551
 #EXTINF:-1,Ar: Al Farqadayn TV
-http://showmetv.live:80/shbe10/6749779ed0/46550
+http://showmetv.live:80/shbe05/6749779ed0/46550
 #EXTINF:-1,Ar: AL QAMAR
-http://showmetv.live:80/shbe10/6749779ed0/46549
+http://showmetv.live:80/shbe05/6749779ed0/46549
 #EXTINF:-1,Ar: AL RASED
-http://showmetv.live:80/shbe10/6749779ed0/46548
+http://showmetv.live:80/shbe05/6749779ed0/46548
 #EXTINF:-1,Ar: Iraq Future TV
-http://showmetv.live:80/shbe10/6749779ed0/46547
+http://showmetv.live:80/shbe05/6749779ed0/46547
 #EXTINF:-1,Ar: ALBAEENAH IRAQ
-http://showmetv.live:80/shbe10/6749779ed0/46546
+http://showmetv.live:80/shbe05/6749779ed0/46546
 #EXTINF:-1,Ar: Imam Ali TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46545
+http://showmetv.live:80/shbe05/6749779ed0/46545
 #EXTINF:-1,Ar: Al Anwar
-http://showmetv.live:80/shbe10/6749779ed0/46544
+http://showmetv.live:80/shbe05/6749779ed0/46544
 #EXTINF:-1,Ar: Anwar TV2
-http://showmetv.live:80/shbe10/6749779ed0/46543
+http://showmetv.live:80/shbe05/6749779ed0/46543
 #EXTINF:-1,Ar: Imam Hussein 2
-http://showmetv.live:80/shbe10/6749779ed0/46542
+http://showmetv.live:80/shbe05/6749779ed0/46542
 #EXTINF:-1,Ar: Karbala TV
-http://showmetv.live:80/shbe10/6749779ed0/46541
+http://showmetv.live:80/shbe05/6749779ed0/46541
 #EXTINF:-1,Ar: Iraq 24 HD
-http://showmetv.live:80/shbe10/6749779ed0/46540
+http://showmetv.live:80/shbe05/6749779ed0/46540
 #EXTINF:-1,Ar: Al Falujah HD
-http://showmetv.live:80/shbe10/6749779ed0/46539
+http://showmetv.live:80/shbe05/6749779ed0/46539
 #EXTINF:-1,Ar: Al Ghadeer
-http://showmetv.live:80/shbe10/6749779ed0/58453
+http://showmetv.live:80/shbe05/6749779ed0/58453
 #EXTINF:-1,Ar: Al Mawsleya
-http://showmetv.live:80/shbe10/6749779ed0/58447
+http://showmetv.live:80/shbe05/6749779ed0/58447
 #EXTINF:-1,Ar: AL-RABIAA IRAQ
-http://showmetv.live:80/shbe10/6749779ed0/62188
+http://showmetv.live:80/shbe05/6749779ed0/62188
 #EXTINF:-1,Ar: ALRabiaa Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/62191
+http://showmetv.live:80/shbe05/6749779ed0/62191
 #EXTINF:-1,Ar: Al-Etejah TV
-http://showmetv.live:80/shbe10/6749779ed0/62187
+http://showmetv.live:80/shbe05/6749779ed0/62187
 #EXTINF:-1,Ar: Al Forat
-http://showmetv.live:80/shbe10/6749779ed0/66979
+http://showmetv.live:80/shbe05/6749779ed0/66979
 #EXTINF:-1,Ar: Iraqia Kurdish
-http://showmetv.live:80/shbe10/6749779ed0/66977
+http://showmetv.live:80/shbe05/6749779ed0/66977
 #EXTINF:-1,Ar: UTV Iraq
-http://showmetv.live:80/shbe10/6749779ed0/66976
+http://showmetv.live:80/shbe05/6749779ed0/66976
 #EXTINF:-1,Ar: Al taghier HD
-http://showmetv.live:80/shbe10/6749779ed0/71147
+http://showmetv.live:80/shbe05/6749779ed0/71147
 #EXTINF:-1,Ar: Kuwait TV 1 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46340
+http://showmetv.live:80/shbe05/6749779ed0/46340
 #EXTINF:-1,Ar: Kuwait TV 1 HD
-http://showmetv.live:80/shbe10/6749779ed0/46538
+http://showmetv.live:80/shbe05/6749779ed0/46538
 #EXTINF:-1,Ar: Kuwait TV 2 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46339
+http://showmetv.live:80/shbe05/6749779ed0/46339
 #EXTINF:-1,Ar: Kuwait TV 2 HD
-http://showmetv.live:80/shbe10/6749779ed0/46537
+http://showmetv.live:80/shbe05/6749779ed0/46537
 #EXTINF:-1,Ar: Kuwait Sports FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46529
+http://showmetv.live:80/shbe05/6749779ed0/46529
 #EXTINF:-1,Ar: Kuwait Sports HD
-http://showmetv.live:80/shbe10/6749779ed0/46535
+http://showmetv.live:80/shbe05/6749779ed0/46535
 #EXTINF:-1,Ar: Kuwait Sports Plus HD
-http://showmetv.live:80/shbe10/6749779ed0/46534
+http://showmetv.live:80/shbe05/6749779ed0/46534
 #EXTINF:-1,Ar: Khallik Bilbait HD
-http://showmetv.live:80/shbe10/6749779ed0/20850
+http://showmetv.live:80/shbe05/6749779ed0/20850
 #EXTINF:-1,Ar: Kuwait Ethraa FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46338
+http://showmetv.live:80/shbe05/6749779ed0/46338
 #EXTINF:-1,Ar: Kuwait Ethraa HD
-http://showmetv.live:80/shbe10/6749779ed0/46533
+http://showmetv.live:80/shbe05/6749779ed0/46533
 #EXTINF:-1,Ar: Al Qurain
-http://showmetv.live:80/shbe10/6749779ed0/46528
+http://showmetv.live:80/shbe05/6749779ed0/46528
 #EXTINF:-1,Ar: Kuwait AlArabi FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46337
+http://showmetv.live:80/shbe05/6749779ed0/46337
 #EXTINF:-1,Ar: Kuwait AlArabi HD
-http://showmetv.live:80/shbe10/6749779ed0/46532
+http://showmetv.live:80/shbe05/6749779ed0/46532
 #EXTINF:-1,Ar: AL MAJLIS FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46342
+http://showmetv.live:80/shbe05/6749779ed0/46342
 #EXTINF:-1,Ar: AL MAJLIS HD
-http://showmetv.live:80/shbe10/6749779ed0/46536
+http://showmetv.live:80/shbe05/6749779ed0/46536
 #EXTINF:-1,Ar: Shahed TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46530
+http://showmetv.live:80/shbe05/6749779ed0/46530
 #EXTINF:-1,Ar: Scope TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46527
+http://showmetv.live:80/shbe05/6749779ed0/46527
 #EXTINF:-1,Ar: Adala TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46526
+http://showmetv.live:80/shbe05/6749779ed0/46526
 #EXTINF:-1,Ar: Marina TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46524
+http://showmetv.live:80/shbe05/6749779ed0/46524
 #EXTINF:-1,Ar: i On Kuwait HD
-http://showmetv.live:80/shbe10/6749779ed0/71342
+http://showmetv.live:80/shbe05/6749779ed0/71342
 #EXTINF:-1,Ar: Al-Bawadi HD
-http://showmetv.live:80/shbe10/6749779ed0/58607
+http://showmetv.live:80/shbe05/6749779ed0/58607
 #EXTINF:-1,Ar: Funoon HD
-http://showmetv.live:80/shbe10/6749779ed0/63650
+http://showmetv.live:80/shbe05/6749779ed0/63650
 #EXTINF:-1,Ar: Al Rai HD
-http://showmetv.live:80/shbe10/6749779ed0/46525
+http://showmetv.live:80/shbe05/6749779ed0/46525
 #EXTINF:-1,Ar: Bahrain International TV FHD
-http://showmetv.live:80/shbe10/6749779ed0/46523
+http://showmetv.live:80/shbe05/6749779ed0/46523
 #EXTINF:-1,Ar: Bahrain TV FHD
-http://showmetv.live:80/shbe10/6749779ed0/46521
+http://showmetv.live:80/shbe05/6749779ed0/46521
 #EXTINF:-1,Ar: Bahrain Sports 2FHD
-http://showmetv.live:80/shbe10/6749779ed0/46520
+http://showmetv.live:80/shbe05/6749779ed0/46520
 #EXTINF:-1,Ar: Bahrain Lawal
-http://showmetv.live:80/shbe10/6749779ed0/46519
+http://showmetv.live:80/shbe05/6749779ed0/46519
 #EXTINF:-1,Ar: Syria TV
-http://showmetv.live:80/shbe10/6749779ed0/46518
+http://showmetv.live:80/shbe05/6749779ed0/46518
 #EXTINF:-1,Ar: Sama Syria
-http://showmetv.live:80/shbe10/6749779ed0/46517
+http://showmetv.live:80/shbe05/6749779ed0/46517
 #EXTINF:-1,Ar: Syria Drama
-http://showmetv.live:80/shbe10/6749779ed0/46516
+http://showmetv.live:80/shbe05/6749779ed0/46516
 #EXTINF:-1,Ar: Syria News
-http://showmetv.live:80/shbe10/6749779ed0/46515
+http://showmetv.live:80/shbe05/6749779ed0/46515
 #EXTINF:-1,Ar: Syria News TV
-http://showmetv.live:80/shbe10/6749779ed0/46514
+http://showmetv.live:80/shbe05/6749779ed0/46514
 #EXTINF:-1,Ar: Syria Education
-http://showmetv.live:80/shbe10/6749779ed0/46513
+http://showmetv.live:80/shbe05/6749779ed0/46513
 #EXTINF:-1,Ar: Syria Al Yawm HD
-http://showmetv.live:80/shbe10/6749779ed0/46512
+http://showmetv.live:80/shbe05/6749779ed0/46512
 #EXTINF:-1,Ar: Syriana tv
-http://showmetv.live:80/shbe10/6749779ed0/46511
+http://showmetv.live:80/shbe05/6749779ed0/46511
 #EXTINF:-1,Ar: Mayadeen TV
-http://showmetv.live:80/shbe10/6749779ed0/46510
+http://showmetv.live:80/shbe05/6749779ed0/46510
 #EXTINF:-1,Ar: Lana TV HD
-http://showmetv.live:80/shbe10/6749779ed0/56170
+http://showmetv.live:80/shbe05/6749779ed0/56170
 #EXTINF:-1,Ar: Lana PLus TV
-http://showmetv.live:80/shbe10/6749779ed0/46509
+http://showmetv.live:80/shbe05/6749779ed0/46509
 #EXTINF:-1,Ar: Nour Elsham
-http://showmetv.live:80/shbe10/6749779ed0/58454
+http://showmetv.live:80/shbe05/6749779ed0/58454
 #EXTINF:-1,Ar: Al Alam Syria
-http://showmetv.live:80/shbe10/6749779ed0/58448
+http://showmetv.live:80/shbe05/6749779ed0/58448
 #EXTINF:-1,Ar: Sham FM
-http://showmetv.live:80/shbe10/6749779ed0/69937
+http://showmetv.live:80/shbe05/6749779ed0/69937
 #EXTINF:-1,Ar: Sada Al Sham FM
-http://showmetv.live:80/shbe10/6749779ed0/71341
+http://showmetv.live:80/shbe05/6749779ed0/71341
 #EXTINF:-1,Ar: NBN Lebanon FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46335
+http://showmetv.live:80/shbe05/6749779ed0/46335
 #EXTINF:-1,Ar: NBN Lebanon HD
-http://showmetv.live:80/shbe10/6749779ed0/46508
+http://showmetv.live:80/shbe05/6749779ed0/46508
 #EXTINF:-1,Ar: MTV Lebanon FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46334
+http://showmetv.live:80/shbe05/6749779ed0/46334
 #EXTINF:-1,Ar: MTV Lebanon HD
-http://showmetv.live:80/shbe10/6749779ed0/46507
+http://showmetv.live:80/shbe05/6749779ed0/46507
 #EXTINF:-1,Ar: LBC International FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46333
+http://showmetv.live:80/shbe05/6749779ed0/46333
 #EXTINF:-1,Ar: LBC International HD
-http://showmetv.live:80/shbe10/6749779ed0/46506
+http://showmetv.live:80/shbe05/6749779ed0/46506
 #EXTINF:-1,Ar: OTV FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46332
+http://showmetv.live:80/shbe05/6749779ed0/46332
 #EXTINF:-1,Ar: OTV Lebanon HD
-http://showmetv.live:80/shbe10/6749779ed0/46505
+http://showmetv.live:80/shbe05/6749779ed0/46505
 #EXTINF:-1,Ar: LBC FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/46331
+http://showmetv.live:80/shbe05/6749779ed0/46331
 #EXTINF:-1,Ar: LBC HD
-http://showmetv.live:80/shbe10/6749779ed0/46504
+http://showmetv.live:80/shbe05/6749779ed0/46504
 #EXTINF:-1,Ar: Tele Lebanon
-http://showmetv.live:80/shbe10/6749779ed0/46503
+http://showmetv.live:80/shbe05/6749779ed0/46503
 #EXTINF:-1,Ar: Jadeed
-http://showmetv.live:80/shbe10/6749779ed0/46502
+http://showmetv.live:80/shbe05/6749779ed0/46502
 #EXTINF:-1,Ar: Future TV
-http://showmetv.live:80/shbe10/6749779ed0/46501
+http://showmetv.live:80/shbe05/6749779ed0/46501
 #EXTINF:-1,Ar: AL Manar
-http://showmetv.live:80/shbe10/6749779ed0/46500
+http://showmetv.live:80/shbe05/6749779ed0/46500
 #EXTINF:-1,Ar: Hawacom HD
-http://showmetv.live:80/shbe10/6749779ed0/47198
+http://showmetv.live:80/shbe05/6749779ed0/47198
 #EXTINF:-1,Ar: Aghani HD
-http://showmetv.live:80/shbe10/6749779ed0/47197
+http://showmetv.live:80/shbe05/6749779ed0/47197
 #EXTINF:-1,Ar: Arabica HD
-http://showmetv.live:80/shbe10/6749779ed0/47196
+http://showmetv.live:80/shbe05/6749779ed0/47196
 #EXTINF:-1,Ar: One
-http://showmetv.live:80/shbe10/6749779ed0/48411
+http://showmetv.live:80/shbe05/6749779ed0/48411
 #EXTINF:-1,Ar: AL Masar TV HD
-http://showmetv.live:80/shbe10/6749779ed0/70785
+http://showmetv.live:80/shbe05/6749779ed0/70785
 #EXTINF:-1,Ar: AL Jamahiria HD
-http://showmetv.live:80/shbe10/6749779ed0/66978
+http://showmetv.live:80/shbe05/6749779ed0/66978
 #EXTINF:-1,Ar: Libya 218
-http://showmetv.live:80/shbe10/6749779ed0/46499
+http://showmetv.live:80/shbe05/6749779ed0/46499
 #EXTINF:-1,Ar: Libya Alaan
-http://showmetv.live:80/shbe10/6749779ed0/46498
+http://showmetv.live:80/shbe05/6749779ed0/46498
 #EXTINF:-1,Ar: Libya Waad FM
-http://showmetv.live:80/shbe10/6749779ed0/46497
+http://showmetv.live:80/shbe05/6749779ed0/46497
 #EXTINF:-1,Ar: Libya Sport Channel
-http://showmetv.live:80/shbe10/6749779ed0/46496
+http://showmetv.live:80/shbe05/6749779ed0/46496
 #EXTINF:-1,Ar: Libya Sports  2HD
-http://showmetv.live:80/shbe10/6749779ed0/50447
+http://showmetv.live:80/shbe05/6749779ed0/50447
 #EXTINF:-1,Ar: Libya Sports 2SD
-http://showmetv.live:80/shbe10/6749779ed0/61157
+http://showmetv.live:80/shbe05/6749779ed0/61157
 #EXTINF:-1,Ar: Libya Wtv HD
-http://showmetv.live:80/shbe10/6749779ed0/51603
+http://showmetv.live:80/shbe05/6749779ed0/51603
 #EXTINF:-1,Ar: Libya Panorama
-http://showmetv.live:80/shbe10/6749779ed0/46495
+http://showmetv.live:80/shbe05/6749779ed0/46495
 #EXTINF:-1,Ar: Libya Febrayer
-http://showmetv.live:80/shbe10/6749779ed0/46494
+http://showmetv.live:80/shbe05/6749779ed0/46494
 #EXTINF:-1,Ar: Libya Al Mustaqbal TV
-http://showmetv.live:80/shbe10/6749779ed0/46493
+http://showmetv.live:80/shbe05/6749779ed0/46493
 #EXTINF:-1,Ar: Libya Alwataniya
-http://showmetv.live:80/shbe10/6749779ed0/46492
+http://showmetv.live:80/shbe05/6749779ed0/46492
 #EXTINF:-1,Ar: Libya Alrasmia
-http://showmetv.live:80/shbe10/6749779ed0/46491
+http://showmetv.live:80/shbe05/6749779ed0/46491
 #EXTINF:-1,Ar: Libya Tanasuh TV
-http://showmetv.live:80/shbe10/6749779ed0/46490
+http://showmetv.live:80/shbe05/6749779ed0/46490
 #EXTINF:-1,Ar: Libya Alhadath
-http://showmetv.live:80/shbe10/6749779ed0/46489
+http://showmetv.live:80/shbe05/6749779ed0/46489
 #EXTINF:-1,Ar: Libya Al Ahrar
-http://showmetv.live:80/shbe10/6749779ed0/46488
+http://showmetv.live:80/shbe05/6749779ed0/46488
 #EXTINF:-1,Ar: Libya 218 News
-http://showmetv.live:80/shbe10/6749779ed0/46487
+http://showmetv.live:80/shbe05/6749779ed0/46487
 #EXTINF:-1,Ar: Libyan TV
-http://showmetv.live:80/shbe10/6749779ed0/46486
+http://showmetv.live:80/shbe05/6749779ed0/46486
 #EXTINF:-1,Ar: libya TV
-http://showmetv.live:80/shbe10/6749779ed0/46485
+http://showmetv.live:80/shbe05/6749779ed0/46485
 #EXTINF:-1,Ar: Sheba TV
-http://showmetv.live:80/shbe10/6749779ed0/56165
+http://showmetv.live:80/shbe05/6749779ed0/56165
 #EXTINF:-1,Ar: Suhail TV
-http://showmetv.live:80/shbe10/6749779ed0/56164
+http://showmetv.live:80/shbe05/6749779ed0/56164
 #EXTINF:-1,Ar: Almahriah HD
-http://showmetv.live:80/shbe10/6749779ed0/56163
+http://showmetv.live:80/shbe05/6749779ed0/56163
 #EXTINF:-1,Ar: Hadramaut TV
-http://showmetv.live:80/shbe10/6749779ed0/50177
+http://showmetv.live:80/shbe05/6749779ed0/50177
 #EXTINF:-1,Ar: Hadramout TV
-http://showmetv.live:80/shbe10/6749779ed0/54145
+http://showmetv.live:80/shbe05/6749779ed0/54145
 #EXTINF:-1,Ar: Yemen TV
-http://showmetv.live:80/shbe10/6749779ed0/46484
+http://showmetv.live:80/shbe05/6749779ed0/46484
 #EXTINF:-1,Ar: Yemen Documentary
-http://showmetv.live:80/shbe10/6749779ed0/56145
+http://showmetv.live:80/shbe05/6749779ed0/56145
 #EXTINF:-1,Ar: Yemen Education TV
-http://showmetv.live:80/shbe10/6749779ed0/46483
+http://showmetv.live:80/shbe05/6749779ed0/46483
 #EXTINF:-1,Ar: Yemen Today
-http://showmetv.live:80/shbe10/6749779ed0/46482
+http://showmetv.live:80/shbe05/6749779ed0/46482
 #EXTINF:-1,Ar: Yemen Shabab HD
-http://showmetv.live:80/shbe10/6749779ed0/56162
+http://showmetv.live:80/shbe05/6749779ed0/56162
 #EXTINF:-1,Ar: AL Ghad AL Mushreq
-http://showmetv.live:80/shbe10/6749779ed0/58613
+http://showmetv.live:80/shbe05/6749779ed0/58613
 #EXTINF:-1,Ar: Aden
-http://showmetv.live:80/shbe10/6749779ed0/46481
+http://showmetv.live:80/shbe05/6749779ed0/46481
 #EXTINF:-1,Ar: Belqees
-http://showmetv.live:80/shbe10/6749779ed0/46480
+http://showmetv.live:80/shbe05/6749779ed0/46480
 #EXTINF:-1,Ar: AL Shareyyah
-http://showmetv.live:80/shbe10/6749779ed0/46479
+http://showmetv.live:80/shbe05/6749779ed0/46479
 #EXTINF:-1,Ar: AL Masirah TV
-http://showmetv.live:80/shbe10/6749779ed0/58615
+http://showmetv.live:80/shbe05/6749779ed0/58615
 #EXTINF:-1,Ar: Al Masirah Mubasher
-http://showmetv.live:80/shbe10/6749779ed0/58614
+http://showmetv.live:80/shbe05/6749779ed0/58614
 #EXTINF:-1,Ar: AL Hawyah TV
-http://showmetv.live:80/shbe10/6749779ed0/59620
+http://showmetv.live:80/shbe05/6749779ed0/59620
 #EXTINF:-1,Ar: Tunisia Nat 1 FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/54323
+http://showmetv.live:80/shbe05/6749779ed0/54323
 #EXTINF:-1,Ar: Tunisia Nat 1HD
-http://showmetv.live:80/shbe10/6749779ed0/52158
+http://showmetv.live:80/shbe05/6749779ed0/52158
 #EXTINF:-1,Ar: Tunisia Nat 1
-http://showmetv.live:80/shbe10/6749779ed0/46472
+http://showmetv.live:80/shbe05/6749779ed0/46472
 #EXTINF:-1,Ar: Tunisia Nat 2
-http://showmetv.live:80/shbe10/6749779ed0/46473
+http://showmetv.live:80/shbe05/6749779ed0/46473
 #EXTINF:-1,Ar: Carthage tn
-http://showmetv.live:80/shbe10/6749779ed0/46478
+http://showmetv.live:80/shbe05/6749779ed0/46478
 #EXTINF:-1,Ar: Baya TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46477
+http://showmetv.live:80/shbe05/6749779ed0/46477
 #EXTINF:-1,Ar: Telvza TV
-http://showmetv.live:80/shbe10/6749779ed0/46476
+http://showmetv.live:80/shbe05/6749779ed0/46476
 #EXTINF:-1,Ar: Zaytoona
-http://showmetv.live:80/shbe10/6749779ed0/46475
+http://showmetv.live:80/shbe05/6749779ed0/46475
 #EXTINF:-1,Ar: Tunisna
-http://showmetv.live:80/shbe10/6749779ed0/46474
+http://showmetv.live:80/shbe05/6749779ed0/46474
 #EXTINF:-1,Ar: Janoubia TV
-http://showmetv.live:80/shbe10/6749779ed0/46471
+http://showmetv.live:80/shbe05/6749779ed0/46471
 #EXTINF:-1,Ar: M Tunisia
-http://showmetv.live:80/shbe10/6749779ed0/46470
+http://showmetv.live:80/shbe05/6749779ed0/46470
 #EXTINF:-1,Ar: Hannibal
-http://showmetv.live:80/shbe10/6749779ed0/46469
+http://showmetv.live:80/shbe05/6749779ed0/46469
 #EXTINF:-1,Ar: Al Hiwar Al tunisi
-http://showmetv.live:80/shbe10/6749779ed0/46468
+http://showmetv.live:80/shbe05/6749779ed0/46468
 #EXTINF:-1,Ar: Al Insen
-http://showmetv.live:80/shbe10/6749779ed0/46467
+http://showmetv.live:80/shbe05/6749779ed0/46467
 #EXTINF:-1,Ar: Attessia TV
-http://showmetv.live:80/shbe10/6749779ed0/46466
+http://showmetv.live:80/shbe05/6749779ed0/46466
 #EXTINF:-1,Ar: A1 Alegria HD
-http://showmetv.live:80/shbe10/6749779ed0/59626
+http://showmetv.live:80/shbe05/6749779ed0/59626
 #EXTINF:-1,Ar: A2 Alegria HD
-http://showmetv.live:80/shbe10/6749779ed0/46463
+http://showmetv.live:80/shbe05/6749779ed0/46463
 #EXTINF:-1,Ar: A3 Alegria HD
-http://showmetv.live:80/shbe10/6749779ed0/46460
+http://showmetv.live:80/shbe05/6749779ed0/46460
 #EXTINF:-1,Ar: A3 Alegria FHD
-http://showmetv.live:80/shbe10/6749779ed0/46459
+http://showmetv.live:80/shbe05/6749779ed0/46459
 #EXTINF:-1,Ar: A4 Alegria
-http://showmetv.live:80/shbe10/6749779ed0/59623
+http://showmetv.live:80/shbe05/6749779ed0/59623
 #EXTINF:-1,Ar: A5 Alegria
-http://showmetv.live:80/shbe10/6749779ed0/46458
+http://showmetv.live:80/shbe05/6749779ed0/46458
 #EXTINF:-1,Ar: A6 Alegria HD
-http://showmetv.live:80/shbe10/6749779ed0/46452
+http://showmetv.live:80/shbe05/6749779ed0/46452
 #EXTINF:-1,Ar: A7 Alegria
-http://showmetv.live:80/shbe10/6749779ed0/59624
+http://showmetv.live:80/shbe05/6749779ed0/59624
 #EXTINF:-1,Ar: A8 Alegria
-http://showmetv.live:80/shbe10/6749779ed0/59625
+http://showmetv.live:80/shbe05/6749779ed0/59625
 #EXTINF:-1,Ar: EL Fadjr TV DZ
-http://showmetv.live:80/shbe10/6749779ed0/56147
+http://showmetv.live:80/shbe05/6749779ed0/56147
 #EXTINF:-1,Ar: Beur TV
-http://showmetv.live:80/shbe10/6749779ed0/46465
+http://showmetv.live:80/shbe05/6749779ed0/46465
 #EXTINF:-1,Ar: Berbere TV
-http://showmetv.live:80/shbe10/6749779ed0/46464
+http://showmetv.live:80/shbe05/6749779ed0/46464
 #EXTINF:-1,Ar: Bahia TV
-http://showmetv.live:80/shbe10/6749779ed0/46462
+http://showmetv.live:80/shbe05/6749779ed0/46462
 #EXTINF:-1,Ar: EL Nahar TV
-http://showmetv.live:80/shbe10/6749779ed0/46461
+http://showmetv.live:80/shbe05/6749779ed0/46461
 #EXTINF:-1,Ar: N1 Dzair TV
-http://showmetv.live:80/shbe10/6749779ed0/46457
+http://showmetv.live:80/shbe05/6749779ed0/46457
 #EXTINF:-1,Ar: Bilad TV
-http://showmetv.live:80/shbe10/6749779ed0/46455
+http://showmetv.live:80/shbe05/6749779ed0/46455
 #EXTINF:-1,Ar: El Heddaf
-http://showmetv.live:80/shbe10/6749779ed0/46454
+http://showmetv.live:80/shbe05/6749779ed0/46454
 #EXTINF:-1,Ar: El Hayat Algeria TV
-http://showmetv.live:80/shbe10/6749779ed0/46453
+http://showmetv.live:80/shbe05/6749779ed0/46453
 #EXTINF:-1,Ar: Al Anis TV
-http://showmetv.live:80/shbe10/6749779ed0/46451
+http://showmetv.live:80/shbe05/6749779ed0/46451
 #EXTINF:-1,Ar: Echorouk TV
-http://showmetv.live:80/shbe10/6749779ed0/46450
+http://showmetv.live:80/shbe05/6749779ed0/46450
 #EXTINF:-1,Ar: Samira TV
-http://showmetv.live:80/shbe10/6749779ed0/62190
+http://showmetv.live:80/shbe05/6749779ed0/62190
 #EXTINF:-1,Ar: AL24 News HD
-http://showmetv.live:80/shbe10/6749779ed0/63456
+http://showmetv.live:80/shbe05/6749779ed0/63456
 #EXTINF:-1,Ar: AL-Mustakila
-http://showmetv.live:80/shbe10/6749779ed0/63455
+http://showmetv.live:80/shbe05/6749779ed0/63455
 #EXTINF:-1,Ar: Al Maghribia Al Ekhbaria FHD
-http://showmetv.live:80/shbe10/6749779ed0/46449
+http://showmetv.live:80/shbe05/6749779ed0/46449
 #EXTINF:-1,Ar: Al Oula Int FHD
-http://showmetv.live:80/shbe10/6749779ed0/46448
+http://showmetv.live:80/shbe05/6749779ed0/46448
 #EXTINF:-1,Ar: Al Maghribia Al Ekhbaria
-http://showmetv.live:80/shbe10/6749779ed0/46447
+http://showmetv.live:80/shbe05/6749779ed0/46447
 #EXTINF:-1,Ar: Al Oula inter
-http://showmetv.live:80/shbe10/6749779ed0/46446
+http://showmetv.live:80/shbe05/6749779ed0/46446
 #EXTINF:-1,Ar: AL Oula laayoune
-http://showmetv.live:80/shbe10/6749779ed0/46445
+http://showmetv.live:80/shbe05/6749779ed0/46445
 #EXTINF:-1,Ar: M24 Maroc
-http://showmetv.live:80/shbe10/6749779ed0/56149
+http://showmetv.live:80/shbe05/6749779ed0/56149
 #EXTINF:-1,Ar: 2M Maroc
-http://showmetv.live:80/shbe10/6749779ed0/46444
+http://showmetv.live:80/shbe05/6749779ed0/46444
 #EXTINF:-1,Ar: Arryadia
-http://showmetv.live:80/shbe10/6749779ed0/46443
+http://showmetv.live:80/shbe05/6749779ed0/46443
 #EXTINF:-1,Ar: Arrabiaa
-http://showmetv.live:80/shbe10/6749779ed0/46442
+http://showmetv.live:80/shbe05/6749779ed0/46442
 #EXTINF:-1,Ar: Assadissa
-http://showmetv.live:80/shbe10/6749779ed0/46441
+http://showmetv.live:80/shbe05/6749779ed0/46441
 #EXTINF:-1,Ar: Tamazight
-http://showmetv.live:80/shbe10/6749779ed0/46440
+http://showmetv.live:80/shbe05/6749779ed0/46440
 #EXTINF:-1,Ar: Medi1 Sat
-http://showmetv.live:80/shbe10/6749779ed0/46439
+http://showmetv.live:80/shbe05/6749779ed0/46439
 #EXTINF:-1,Ar: Chada TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46438
+http://showmetv.live:80/shbe05/6749779ed0/46438
 #EXTINF:-1,Ar: Tele Maroc HD
-http://showmetv.live:80/shbe10/6749779ed0/46437
+http://showmetv.live:80/shbe05/6749779ed0/46437
 #EXTINF:-1,Ar: AL Oula laayoune FHD
-http://showmetv.live:80/shbe10/6749779ed0/46436
+http://showmetv.live:80/shbe05/6749779ed0/46436
 #EXTINF:-1,Ar:  Athaqafia FHD
-http://showmetv.live:80/shbe10/6749779ed0/46435
+http://showmetv.live:80/shbe05/6749779ed0/46435
 #EXTINF:-1,Ar: Arryadia FHD
-http://showmetv.live:80/shbe10/6749779ed0/46434
+http://showmetv.live:80/shbe05/6749779ed0/46434
 #EXTINF:-1,Ar: Assadissa FHD
-http://showmetv.live:80/shbe10/6749779ed0/46433
+http://showmetv.live:80/shbe05/6749779ed0/46433
 #EXTINF:-1,Ar: Tamazight FHD
-http://showmetv.live:80/shbe10/6749779ed0/46432
+http://showmetv.live:80/shbe05/6749779ed0/46432
 #EXTINF:-1,Ar: Medi1 TV FHD
-http://showmetv.live:80/shbe10/6749779ed0/46431
+http://showmetv.live:80/shbe05/6749779ed0/46431
 #EXTINF:-1,Ar: Palestine Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/56150
+http://showmetv.live:80/shbe05/6749779ed0/56150
 #EXTINF:-1,Ar: Palestine  TODAY
-http://showmetv.live:80/shbe10/6749779ed0/46430
+http://showmetv.live:80/shbe05/6749779ed0/46430
 #EXTINF:-1,Ar: Palestine  TV
-http://showmetv.live:80/shbe10/6749779ed0/46429
+http://showmetv.live:80/shbe05/6749779ed0/46429
 #EXTINF:-1,Ar: Palestine Live
-http://showmetv.live:80/shbe10/6749779ed0/46428
+http://showmetv.live:80/shbe05/6749779ed0/46428
 #EXTINF:-1,Ar: Palestine  NEWS
-http://showmetv.live:80/shbe10/6749779ed0/46427
+http://showmetv.live:80/shbe05/6749779ed0/46427
 #EXTINF:-1,Ar: AL Aqsa TV
-http://showmetv.live:80/shbe10/6749779ed0/57783
+http://showmetv.live:80/shbe05/6749779ed0/57783
 #EXTINF:-1,Ar: Al Salam
-http://showmetv.live:80/shbe10/6749779ed0/46425
+http://showmetv.live:80/shbe05/6749779ed0/46425
 #EXTINF:-1,Ar: Ajyaal
-http://showmetv.live:80/shbe10/6749779ed0/46424
+http://showmetv.live:80/shbe05/6749779ed0/46424
 #EXTINF:-1,Ar: Palestinian TV
-http://showmetv.live:80/shbe10/6749779ed0/46423
+http://showmetv.live:80/shbe05/6749779ed0/46423
 #EXTINF:-1,Ar: Al-Najah Nbc
-http://showmetv.live:80/shbe10/6749779ed0/46422
+http://showmetv.live:80/shbe05/6749779ed0/46422
 #EXTINF:-1,Ar: Maan News
-http://showmetv.live:80/shbe10/6749779ed0/46421
+http://showmetv.live:80/shbe05/6749779ed0/46421
 #EXTINF:-1,Ar: Al Quds Today
-http://showmetv.live:80/shbe10/6749779ed0/46420
+http://showmetv.live:80/shbe05/6749779ed0/46420
 #EXTINF:-1,Ar: Al Kofiya
-http://showmetv.live:80/shbe10/6749779ed0/46419
+http://showmetv.live:80/shbe05/6749779ed0/46419
 #EXTINF:-1,Ar: Awdeh
-http://showmetv.live:80/shbe10/6749779ed0/71346
+http://showmetv.live:80/shbe05/6749779ed0/71346
 #EXTINF:-1,Ar: Sudan Drama
-http://showmetv.live:80/shbe10/6749779ed0/46418
+http://showmetv.live:80/shbe05/6749779ed0/46418
 #EXTINF:-1,Ar: Sudan Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/46417
+http://showmetv.live:80/shbe05/6749779ed0/46417
 #EXTINF:-1,Ar: Neelain Sport
-http://showmetv.live:80/shbe10/6749779ed0/50005
+http://showmetv.live:80/shbe05/6749779ed0/50005
 #EXTINF:-1,Ar: Sudan Music
-http://showmetv.live:80/shbe10/6749779ed0/46416
+http://showmetv.live:80/shbe05/6749779ed0/46416
 #EXTINF:-1,Ar: Khartoum
-http://showmetv.live:80/shbe10/6749779ed0/46415
+http://showmetv.live:80/shbe05/6749779ed0/46415
 #EXTINF:-1,Ar: Om Dorman TV
-http://showmetv.live:80/shbe10/6749779ed0/46414
+http://showmetv.live:80/shbe05/6749779ed0/46414
 #EXTINF:-1,Ar: Blue Nile
-http://showmetv.live:80/shbe10/6749779ed0/46413
+http://showmetv.live:80/shbe05/6749779ed0/46413
 #EXTINF:-1,Ar: Blue Nile 2HD
-http://showmetv.live:80/shbe10/6749779ed0/58609
+http://showmetv.live:80/shbe05/6749779ed0/58609
 #EXTINF:-1,Ar: Sudan 24
-http://showmetv.live:80/shbe10/6749779ed0/46412
+http://showmetv.live:80/shbe05/6749779ed0/46412
 #EXTINF:-1,Ar: Sudan TV
-http://showmetv.live:80/shbe10/6749779ed0/46411
+http://showmetv.live:80/shbe05/6749779ed0/46411
 #EXTINF:-1,Ar: Shamalia TV
-http://showmetv.live:80/shbe10/6749779ed0/58612
+http://showmetv.live:80/shbe05/6749779ed0/58612
 #EXTINF:-1,Ar: Kassala TV
-http://showmetv.live:80/shbe10/6749779ed0/58611
+http://showmetv.live:80/shbe05/6749779ed0/58611
 #EXTINF:-1,Ar: Al-Marikh TV
-http://showmetv.live:80/shbe10/6749779ed0/58610
+http://showmetv.live:80/shbe05/6749779ed0/58610
 #EXTINF:-1,Ar: Al Istijaba TV
-http://showmetv.live:80/shbe10/6749779ed0/58608
+http://showmetv.live:80/shbe05/6749779ed0/58608
 #EXTINF:-1,Ar: Junobna TV
-http://showmetv.live:80/shbe10/6749779ed0/71344
+http://showmetv.live:80/shbe05/6749779ed0/71344
 #EXTINF:-1,Ar: Sudan Bukra
-http://showmetv.live:80/shbe10/6749779ed0/71343
+http://showmetv.live:80/shbe05/6749779ed0/71343
 #EXTINF:-1,Ar: Oman TV General HD
-http://showmetv.live:80/shbe10/6749779ed0/46410
+http://showmetv.live:80/shbe05/6749779ed0/46410
 #EXTINF:-1,Ar: Oman TV Live HD
-http://showmetv.live:80/shbe10/6749779ed0/46404
+http://showmetv.live:80/shbe05/6749779ed0/46404
 #EXTINF:-1,Ar: Oman Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/46408
+http://showmetv.live:80/shbe05/6749779ed0/46408
 #EXTINF:-1,Ar: Oman Cultural HD
-http://showmetv.live:80/shbe10/6749779ed0/46406
+http://showmetv.live:80/shbe05/6749779ed0/46406
 #EXTINF:-1,Ar: OMAN TV General FHD
-http://showmetv.live:80/shbe10/6749779ed0/46409
+http://showmetv.live:80/shbe05/6749779ed0/46409
 #EXTINF:-1,Ar: OMAN TV Sport FHD
-http://showmetv.live:80/shbe10/6749779ed0/46407
+http://showmetv.live:80/shbe05/6749779ed0/46407
 #EXTINF:-1,Ar: OMAN TV Culture FHD
-http://showmetv.live:80/shbe10/6749779ed0/46405
+http://showmetv.live:80/shbe05/6749779ed0/46405
 #EXTINF:-1,Ar: OMAN TV Live FHD
-http://showmetv.live:80/shbe10/6749779ed0/46403
+http://showmetv.live:80/shbe05/6749779ed0/46403
 #EXTINF:-1,Ar: Dohat Al-Quraan
-http://showmetv.live:80/shbe10/6749779ed0/62189
+http://showmetv.live:80/shbe05/6749779ed0/62189
 #EXTINF:-1,Ar: Qatar HD
-http://showmetv.live:80/shbe10/6749779ed0/46402
+http://showmetv.live:80/shbe05/6749779ed0/46402
 #EXTINF:-1,Ar: Qatar 2HD
-http://showmetv.live:80/shbe10/6749779ed0/53464
+http://showmetv.live:80/shbe05/6749779ed0/53464
 #EXTINF:-1,Ar: Al Rayan TV
-http://showmetv.live:80/shbe10/6749779ed0/46401
+http://showmetv.live:80/shbe05/6749779ed0/46401
 #EXTINF:-1,Ar: Al Rayan Qadeem TV
-http://showmetv.live:80/shbe10/6749779ed0/46400
+http://showmetv.live:80/shbe05/6749779ed0/46400
 #EXTINF:-1,Ar: Al Mamlaka tv FHD
-http://showmetv.live:80/shbe10/6749779ed0/46392
+http://showmetv.live:80/shbe05/6749779ed0/46392
 #EXTINF:-1,Ar: Al Mamlaka tv
-http://showmetv.live:80/shbe10/6749779ed0/46399
+http://showmetv.live:80/shbe05/6749779ed0/46399
 #EXTINF:-1,Ar: Jordan TV FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/56143
+http://showmetv.live:80/shbe05/6749779ed0/56143
 #EXTINF:-1,Ar: Jordan TV
-http://showmetv.live:80/shbe10/6749779ed0/46396
+http://showmetv.live:80/shbe05/6749779ed0/46396
 #EXTINF:-1,Ar: Jordan Sport HD
-http://showmetv.live:80/shbe10/6749779ed0/46395
+http://showmetv.live:80/shbe05/6749779ed0/46395
 #EXTINF:-1,Ar: RO'YA FHD (H.265)
-http://showmetv.live:80/shbe10/6749779ed0/56144
+http://showmetv.live:80/shbe05/6749779ed0/56144
 #EXTINF:-1,Ar: Roya HD
-http://showmetv.live:80/shbe10/6749779ed0/46394
+http://showmetv.live:80/shbe05/6749779ed0/46394
 #EXTINF:-1,Ar: Amman TV HD
-http://showmetv.live:80/shbe10/6749779ed0/46393
+http://showmetv.live:80/shbe05/6749779ed0/46393
 #EXTINF:-1,Ar: A One TV Jordan HD
-http://showmetv.live:80/shbe10/6749779ed0/58463
+http://showmetv.live:80/shbe05/6749779ed0/58463
